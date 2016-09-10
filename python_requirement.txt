@@ -45,7 +45,6 @@ pexpect==4.2.1
 picamera==1.12
 pifacecommon==4.1.2
 pifacedigitalio==3.0.5
-PIL==1.1.7
 Pillow==3.3.1
 ply==3.9
 protobuf==3.0.0
