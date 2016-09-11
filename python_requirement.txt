@@ -105,7 +105,6 @@ scikit-image==0.12.3
 scikit-learn==0.17.1
 scikits-image==0.6.1
 scipy==0.18.0
-simplejson==3.8.2
 simplemediawiki==1.1.1
 six==1.10.0
 smbus==1.1
