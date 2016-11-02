@@ -61,7 +61,6 @@ parsedatetime==2.1
 pbr==1.10.0
 pdoc==0.3.2
 pep8==1.7.0
-pep8==1.7.0
 pexpect==4.2.1
 picamera==1.12
 pifacecommon==4.1.2
