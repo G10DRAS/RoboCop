@@ -27,16 +27,53 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 * Combination of Hand Gesture as passkey.
 
 ##Functionalities:
+*
+*
+*
+*
+*
+*
+*
 
 ###Party Mode
+*
+*
+*
+*
+*
 
 ###Home Security Mode
+*
+*
+*
+*
+*
 
-###Kids Engage Mode
+###Kids Engagement Mode
+*
+*
+*
+*
+*
 
 ###Spy Mode
+*
+*
+*
+*
+*
 
 ###Home Automation Mode
+*
+*
+*
+*
+*
 
 ###General Mode
+*
+*
+*
+*
+*
 
