@@ -18,11 +18,11 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ##Security Features:
 
-* Face Recognization.
+* Live Face Recognization.
 
 * Speaker diarization (Master's Voice).
 
-* Complete Offline Speech Recognization.
+* Complete Offline Speech Recognization (Offline STT).
 
 * Combination of Hand Gesture as passkey.
 
