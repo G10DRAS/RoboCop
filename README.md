@@ -15,3 +15,13 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ###Android App
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/ANA.jpg "Android App")
+
+##Security Features:
+
+* Face Recognization.
+
+* Speaker diarization (Master's Voice).
+
+* Complete Offline Speech Recognization.
+
+* Combination of Hand Gesture as passkey.
