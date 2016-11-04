@@ -8,7 +8,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ##Interfaces to RoboCop:
 ###Cross Plateform Desktop Browsers (Firefox, Chrome)
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/DWB.jpg "Desktop Browsers")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/DWB1.jpg "Desktop Browsers")
 
 ###Android Mobile Browsers (Firefox, Chrome)
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/AWB.jpg "Desktop Browsers")
