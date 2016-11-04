@@ -4,7 +4,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/RoboCop1.jpg "RoboCop")
 
 ##Python Libraries:
-[Libs](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
+see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
 ##Voice Interfaces to RoboCop:
 
