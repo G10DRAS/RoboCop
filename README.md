@@ -53,15 +53,15 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 * Recognise Kids activity.
 * Play picture game.
 * Play math puzzles and check the answers.
-* Play spellin bee game and check the spelling.
+* Play spelling bee game and check the spelling.
 * Play Tank Game (Voice Commands)
 
 ###Spy Mode
-* Wi-Fi
-* Bluetooth
-* RFID
-* NFC
-* Kali Linux
+* Wi-Fi (Network Scanning, WEP cracking, etc.......) 
+* Bluetooth 
+* RFID (Scanning)
+* NFC (Scanning)
+* Kali Linux (Metasploit Payloads Automation, etc.....) 
 
 ###Home Automation Mode
 * OpenHAB
@@ -74,6 +74,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 * Facebook (Birthday, Notification....)
 * Twitter (Notification, Treands, Send Tweets)
 * Telegram Bot
+* Slack Bot
 * Wolfram
 * Horoscope
 * Internet Radio (Jazz, Blue, Pop, Rock....)
@@ -90,6 +91,8 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 * Portfolio performance on NASDAQ
 * Solve a sudoku puzzle by looking into paper cutting.
 * Get movie info from IMDB database.
+* Wikipedia Search
+* Dictionary Search
 
 ###Chat Mode
 * Chat with Santa.
