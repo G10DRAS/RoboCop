@@ -11,7 +11,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ###Inbuilt High Quality Microphone Array
 
 ###Bluetooth Headset Support (HFC Profile)
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/Jabra.jpg "Jabra Stealth Bluetooth Headset")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/Jabra1.jpg "Jabra Stealth Bluetooth Headset")
 
 ###Cross Plateform Desktop Browsers (Firefox, Chrome)
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/DWB1.jpg "Desktop Browsers")
