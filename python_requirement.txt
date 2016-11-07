@@ -1,7 +1,7 @@
 adapt-parser==0.2.7
 aiml==0.8.6
 apiai==1.0.2
-APScheduler==3.2.0
+APScheduler==3.3.0
 astral==1.2
 autopep8==1.2.4
 backports.ssl-match-hostname==3.5.0.1
@@ -12,8 +12,8 @@ chatbot==1.5.2b
 click==6.6
 cmuclmtk==0.1.5
 configobj==5.0.6
-cryptography==1.5.2
-Cython==0.25
+cryptography==1.5.3
+Cython==0.25.1
 dask==0.11.1
 decorator==4.0.10
 demjson==2.2.4
@@ -25,7 +25,7 @@ facerec==1.0
 feedparser==5.2.1
 Flask==0.11.1
 funcsigs==1.0.2
-future==0.15.2
+future==0.16.0
 futures==3.0.5
 fuzzywuzzy==0.12.0
 google-api-python-client==1.5.3
@@ -43,7 +43,7 @@ itsdangerous==0.24
 Jinja2==2.8
 lxml==2.3.2
 MarkupSafe==0.23
-matplotlib==1.4.3
+matplotlib==1.5.3
 mcpi==0.1.1
 mock==2.0.0
 monotonic==1.2
@@ -65,7 +65,8 @@ pexpect==4.2.1
 picamera==1.12
 pifacecommon==4.1.2
 pifacedigitalio==3.0.5
-Pillow==3.4.1
+Pillow==3.4.2
+pip==9.0.0
 ply==3.9
 pocketsphinx==0.1.3
 protobuf==3.1.0
@@ -96,7 +97,7 @@ PySoundFile==0.8.1
 pystache==0.5.4
 Pyste==0.9.10
 python-dateutil==2.5.3
-python-gflags==3.0.7
+python-gflags==3.1.0
 python-Levenshtein==0.12.0
 python-mpd==0.3.0
 python-slugify==1.2.1
@@ -125,13 +126,13 @@ SpeechRecognition==3.4.6
 stevedore==1.18.0
 tablib==0.11.2
 toolz==0.8.0
-tornado==4.2.1
+tornado==4.4.2
 tweepy==3.6.0
 tzlocal==1.3
 unicodecsv==0.14.1
 Unidecode==0.04.19
 uritemplate==3.0.0
-urllib3==1.18
+urllib3==1.19
 urllib5==5.0.0
 virtualenv-clone==0.2.6
 virtualenv==15.0.3
