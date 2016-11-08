@@ -1,7 +1,7 @@
 # RoboCop
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/RoboCop1.jpg "RoboCop")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/RoboCop.jpg "RoboCop")
 
 ##Python Libraries:
 see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
