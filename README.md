@@ -100,3 +100,6 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Chat with Alice in Wonderland
 * Chat with CleverBot
 * Chat with DrumphBot
+
+##Voice Controlled Games
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TankGame.jpg "Tank Game")
