@@ -11,16 +11,16 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ###Inbuilt High Quality Microphone Array
 
 ###Bluetooth Headset Support (HFC Profile)
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/Jabra1.jpg "Jabra Stealth Bluetooth Headset")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/JabraStealth.jpg "Jabra Stealth Bluetooth Headset")
 
 ###Cross Plateform Desktop Browsers (Firefox, Chrome)
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/DWB1.jpg "Desktop Browsers")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/DWB.jpg "Desktop Browsers")
 
 ###Android Mobile Browsers (Firefox, Chrome)
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/AWB.jpg "Mobile Browsers")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/AWB.jpg "Mobile Browsers")
 
 ###Android App
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/ANA.jpg "Android App")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/ANA.jpg "Android App")
 
 ##Security Features:
 
