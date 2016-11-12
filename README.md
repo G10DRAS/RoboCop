@@ -40,6 +40,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Load friends faces database and greet them on gate by recognizaing their faces.
 * Change the song on demand.
 * Voice operated coffee, beer machine.
+* Hand Gesture Jukebox control (Play, Next, Stop....).
 
 ###Home Security Mode
 * Infrared Sensores.
