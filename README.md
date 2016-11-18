@@ -103,4 +103,5 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Chat with DrumphBot
 
 ##Voice Controlled Games
+* Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TankGame.jpg "Tank Game")
