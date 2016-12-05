@@ -60,7 +60,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ###Spy Mode
 * Wi-Fi (Network Scanning, WEP cracking, etc.......) 
-* Bluetooth 
+* Bluetooth (MAC Finder : Who is around)
 * RFID (Scanning)
 * NFC (Scanning)
 * Kali Linux (Metasploit Payloads Automation, etc.....) 
