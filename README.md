@@ -63,7 +63,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Bluetooth (MAC Finder : Who is around)
 * RFID (Scanning)
 * NFC (Scanning)
-* Kali Linux (Metasploit Payloads Automation, etc.....) 
+* Kali Linux (Metasploit Payloads Automation) 
 
 ###Home Automation Mode
 * OpenHAB
@@ -75,32 +75,32 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ###General Mode
 * Facebook (Birthday, Notification....)
 * Twitter (Notification, Treands, Send Tweets)
-* Telegram Bot
+* Telegram Bot (Telegram Updates)
 * Slack Bot
-* Wolfram
-* Horoscope
-* Internet Radio (Jazz, Blue, Pop, Rock....)
+* Wolfram Knowledge Engine.
+* Check Horoscope for a Day.
+* Internet Radio. (Jazz, Blue, Pop, Rock....)
 * Check Product Info by reading barcodes.
 * Google Calendar (Search, Events, Meetings, etc...)
 * English, German, Spanish Jokes.
 * World News, Local New, Sport News, Technology News.
-* Translate one language to another
-* Play local music library (Search, Song Name, Album, Random Choice)
-* Currency Exchange Rate
-* Weather Forecast (Today, Tommorow, Weekly)
-* Take Selfie, Photo
-* Check Gmail
-* Portfolio performance on NASDAQ
+* Translate one language to another.
+* Play local music library. (Search, Song Name, Album, Random Choice)
+* Currency Exchange Rate.
+* Weather Forecast. (Today, Tommorow, Weekly)
+* Take Selfie/Photo and send it to your email address as an attachment.
+* Check Emails.
+* Portfolio performance on NASDAQ.
 * Solve a sudoku puzzle by looking into paper cutting.
 * Get movie info from IMDB database.
-* Wikipedia Search
-* Dictionary Search
+* Wikipedia Search.
+* Dictionary Search.
 
 ###Chat Mode
 * Chat with Santa.
 * Chat with Alice in Wonderland
-* Chat with CleverBot
-* Chat with DrumphBot
+* Chat with CleverBot.
+* Chat with DrumphBot.
 
 ##Voice Controlled Games
 * Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
