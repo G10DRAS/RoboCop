@@ -113,9 +113,14 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SudokuSolver.jpg "Sudoku Solver")
 
 ##Home Automation
-* >>>Turn ON First Floor Office Light
+* >>>Turn ON First Floor Office Heating
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation.jpg "Home Automation")
+
+* >>> Whats the Temperature at Ground Floor Kitchen
+* >> It is 18.4 degree celcius
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation1.jpg "Home Automation")
 
 ##Browser Based Configuration Interface
 * Sample Configuration Page
