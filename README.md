@@ -112,6 +112,11 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SudokuSolver.jpg "Sudoku Solver")
 
+##Home Automation
+* >>>Turn ON First Floor Office Light
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation.jpg "Home Automation")
+
 ##Browser Based Configuration Interface
 * Sample Configuration Page
 
