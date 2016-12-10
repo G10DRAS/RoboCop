@@ -122,6 +122,13 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation1.jpg "Home Automation")
 
+##Animal Game for Kids
+* >>> What you want to see
+* >> Show me a Eagle
+* >>> This is a Eagle
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Eagle.jpg "Kids Game")
+
 ##Browser Based Configuration Interface
 * Sample Configuration Page
 
