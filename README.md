@@ -110,6 +110,8 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ##Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
 
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SudokuPaperCut.jpg "Sudoku Paper Cutting")
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SudokuSolver.jpg "Sudoku Solver")
 
 ##Home Automation
