@@ -14,6 +14,9 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ###Bluetooth Headset Support
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/JabraStealth.jpg "Bluetooth Headset")
 
+###Telegram Bot Interface
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TelegramBot.jpg "Telegram Bot")
+
 ###Cross Plateform Desktop Browsers (Firefox, Chrome)
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/DWB.jpg "Desktop Browsers")
 
