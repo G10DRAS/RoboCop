@@ -94,7 +94,8 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Weather Forecast. (Today, Tommorow, Weekly)
 * Take Selfie/Photo and send it to your email address as an attachment.
 * Check Emails.
-* Portfolio performance on NASDAQ.
+* Your Portfolio performance on NASDAQ.
+* News about stocks in your Portfolio.
 * Solve a sudoku puzzle by looking into paper cutting.
 * Get movie info from IMDB database.
 * Wikipedia Search.
