@@ -137,6 +137,12 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation1.jpg "Home Automation")
 
+##Send Twitts to Twitter
+* >>> What would you like to tweet?
+* >> HAPPY NEW YEAR FRIENDS
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Twitts.jpg "Send Twitts")
+
 ##Animal Game for Kids
 * >>> What you want to see
 * >> Show me a Eagle
