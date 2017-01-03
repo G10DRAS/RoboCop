@@ -99,6 +99,14 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Get movie info from IMDB database.
 * Wikipedia Search.
 * Dictionary Search.
+* Take your photo and draw poster out of it and then print it.
+
+###Classroom Mode
+* Scan the student faces and record attendance.
+* Scan exam OMR sheets and create marksheet for student.
+* Run a Knowledge Engine for students.
+* Check the noise level in classroom and .... students.
+* Provide assistance to Teacher.
 
 ###Chat Mode
 * Chat with Santa.
