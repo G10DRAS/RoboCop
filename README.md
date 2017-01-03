@@ -47,11 +47,11 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Hand Gesture Jukebox control (Play, Next, Stop....).
 
 ###Home Security Mode
-* Infrared Sensores.
-* Night Vision Cameras.
+* Intrusion detection with Infrared Sensores.
+* Motion detection with Night Vision Cameras.
 * Controlled Pnumatic gun loaded with basebolls.
 * Dial 100 facility. 
-* Dial Ambulance.
+* Dial Ambulance if Intruder looks injured.
 
 ###Kids Engagement Mode
 * Tell the story by scanning pages from paper book.
