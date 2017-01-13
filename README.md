@@ -123,7 +123,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 * Tic Tac Toe
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TicTac.jpg "Tic Tac Toe Game")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TicTacToe.jpg "Tic Tac Toe Game")
 
 ##Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
