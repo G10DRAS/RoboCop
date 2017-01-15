@@ -58,7 +58,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Tell the story by scanning pages from paper book.
 * Play Rhymes of your choice. ("Play Wheel on the Bus")
 * detects kid's facial expression and play Rhymes accordingly. (experimental)
-* Recognise Kids activity.
+* Recognise Kids activity (playing, sleeping, crowling, seating....).
 * Play picture game.
 * Play math puzzles and check the answers.
 * Play spelling bee game and check the spelling.
