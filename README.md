@@ -154,9 +154,14 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Twitts.jpg "Send Twitts")
 
 ##Animal Game for Kids
-* >>> What you want to see
-* >> Show me a Eagle
-* >>> This is a Eagle
+* >> What you want to see
+* >>> Show me a Eagle
+* >> This is a Eagle
+
+##Spelling Test for Kids
+* >> tell me the spelling of elephant
+* >>> E L E P H A N T
+* >> E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Eagle.jpg "Kids Game")
 
