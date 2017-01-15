@@ -50,13 +50,14 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ###Home Security Mode
 * Intrusion detection with Infrared Sensores.
 * Motion detection with Night Vision Cameras.
-* Controlled Pnumatic gun loaded with basebolls.
+* Controlled Pnumatic gun loaded with baseballs.
 * Dial 100 facility. 
 * Dial Ambulance if Intruder looks injured.
 
 ###Kids Engagement Mode
 * Tell the story by scanning pages from paper book.
-* Play Rhymes of your choice.
+* Play Rhymes of your choice. ("Play Wheel on the Bus")
+* detects kid's facial expression and play Rhymes accordingly. (experimental)
 * Recognise Kids activity.
 * Play picture game.
 * Play math puzzles and check the answers.
