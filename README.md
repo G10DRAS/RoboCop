@@ -138,7 +138,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ##Jukebox Control with Glyphs
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/GlyphControl.jpg "Glyph Control")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/GlyphControls.jpg "Glyph Control")
 
 ##Home Automation
 * >>>Turn ON First Floor Office Heating
