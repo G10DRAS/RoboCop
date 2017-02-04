@@ -1,5 +1,6 @@
 # RoboCop (ロボ警官)
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
+
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/RoboCop.jpg "RoboCop")
@@ -33,11 +34,8 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ##Security Features:
 
 * Live Face Recognition.
-
 * Speaker Diarization (Master's Voice).
-
 * Complete Offline Speech Recognition (Offline STT).
-
 * Combination of Hand Gesture as passkey.
 
 ##Functionalities:
