@@ -67,6 +67,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Play spelling bee game and check the spelling.
 * Play Tank Game (Voice Commands)
 * Play Tic Tc Toe (Voice Commands)
+* Japanese Game Janken (じゃん拳)
 
 ###Spy Mode
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
