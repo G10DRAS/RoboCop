@@ -68,10 +68,10 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Play Tank Game (Voice Commands)
 
 ###Spy Mode
-* Wi-Fi (Network Scanning, WEP cracking, etc.......) 
+* Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
 * Bluetooth (MAC Finder : Who is around | Is SHE Around)
 * RFID (Scanning)
-* NFC (Scanning)
+* NFC (NFC Automation)
 * Kali Linux (Metasploit Payloads Automation) 
 
 ###Home Automation Mode
