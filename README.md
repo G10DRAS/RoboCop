@@ -1,4 +1,4 @@
-# RoboCop
+# RoboCop (ロボ警官)
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/RoboCop.jpg "RoboCop")
