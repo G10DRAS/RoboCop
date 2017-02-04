@@ -31,11 +31,11 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 ##Security Features:
 
-* Live Face Recognization.
+* Live Face Recognition.
 
-* Speaker diarization (Master's Voice).
+* Speaker Diarization (Master's Voice).
 
-* Complete Offline Speech Recognization (Offline STT).
+* Complete Offline Speech Recognition (Offline STT).
 
 * Combination of Hand Gesture as passkey.
 
@@ -167,6 +167,10 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * >> tell me the spelling of elephant
 * >>> E L E P H A N T
 * >> E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
+
+##Live Face Recognization
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FaceRecognition.jpg "Live Face Recognition")
 
 ##Browser Based Configuration Interface
 * Sample Configuration Page
