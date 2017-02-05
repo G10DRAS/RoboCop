@@ -56,7 +56,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Dial 100 facility. 
 * Dial Ambulance if Intruder looks injured.
 
-###Kids Engagement Mode
+###Kids Engagement Mode (Robo Nanny)
 * Tell the story by scanning pages from paper book.
 * Play Rhymes of your choice. ("Play Wheel on the Bus")
 * Detects kid's facial expression and play Rhymes accordingly. (experimental)
