@@ -1,3 +1,11 @@
 
-1. Array of RPi3B (10 Raspbery Pi)
-2. 
+1. Raspbery Pi 2B (Atleast)
+2. Webcam (HD 720p) 
+3. Arduino Uno
+4. Bluetooth Headset or USB Sound card.
+5. Mobile with Telegram or Facebook installed (Optional)
+6. WiFi Dongle (Optionl)
+7. Bluetooth Dongle (Optionl)
+8. 3G USB Modem (Optional)
+9. Bluetooth Speaker. (Optionl)
+10. Normal Speaker (3.5 Jack)
