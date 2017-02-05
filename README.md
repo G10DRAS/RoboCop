@@ -121,6 +121,9 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Chat with CleverBot.
 * Chat with DrumphBot.
 
+###Super Market Helper Mode
+* Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
+
 ##Voice Controlled Games
 * Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
