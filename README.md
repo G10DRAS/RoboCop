@@ -68,7 +68,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Play Tic Tc Toe (Voice Commands)
 * Japanese Game Janken (じゃん拳)
 
-###Spy Mode
+###Spy Mode (Rocker)
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
 * Bluetooth (MAC Finder : Who is around | Is SHE Around)
 * RFID (Scanning)
