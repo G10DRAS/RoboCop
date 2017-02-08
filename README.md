@@ -35,6 +35,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 
 * Live Face Recognition.
 * Speaker Diarization (Master's Voice).
+* In-built Hotword Detection.
 * Complete Offline Speech Recognition (Offline STT).
 * Combination of Hand Gesture as passkey.
 
