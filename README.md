@@ -111,6 +111,7 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 * Wikipedia Search.
 * Dictionary Search.
 * Take your photo and draw poster out of it and then print it.
+* Voice driven Shopping Kart / Database queries. 
 
 ###Classroom Mode
 * Scan the student faces and record attendance.
