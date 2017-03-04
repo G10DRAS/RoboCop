@@ -190,4 +190,6 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ##Browser Based Configuration Interface
 * Sample Configuration Page
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/config.jpg "Configuration")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/hotwordstt.jpg "Configuration")
+
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/OpenHAB.jpg "Configuration")
