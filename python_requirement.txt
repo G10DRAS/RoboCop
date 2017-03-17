@@ -104,7 +104,6 @@ RPi.GPIO==0.6.3
 rsa==3.4.2
 scikit-image==0.12.3
 scikit-learn==0.18
-scikits-image==0.7.1
 scipy==0.18.1
 semantic==1.0.3
 shortuuid==0.4.3
