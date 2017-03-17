@@ -1,8 +1,10 @@
 # RoboCop (ロボ警官)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcbe16a643ea44bf9d2298edc4e8adc0)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&utm_medium=referral&utm_content=G10DRAS/RoboCop&utm_campaign=badger)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![Build Passing](https://rawgithub.com/badges/badger/master/static/travis_passing.svg)](#)
 
-    
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
