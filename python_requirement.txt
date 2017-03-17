@@ -81,7 +81,6 @@ pyee==3.0.1
 PyInstaller==3.2
 pyjokes==0.5.0
 pyOpenSSL==16.2.0
-pyowm==3.5
 pyparsing==2.1.10
 pyric==0.1.6.2
 pyroute2==0.4.10
