@@ -9,7 +9,7 @@ cache:
     - "$HOME/.pip-cache/"
     - "/home/travis/virtualenv/python2.7"
 install: 
-    - "pip install -r python_requirements.txt  --download-cache $HOME/.pip-cache"
+    - "pip install -r python_requirement.txt  --download-cache $HOME/.pip-cache"
     - "pip install python-coveralls --download-cache $HOME/.pip-cache"
     - "pip install coverage  --download-cache $HOME/.pip-cache"
     - "pip install flake8  --download-cache $HOME/.pip-cache"
