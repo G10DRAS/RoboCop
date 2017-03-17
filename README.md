@@ -1,8 +1,7 @@
 # RoboCop (ロボ警官)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcbe16a643ea44bf9d2298edc4e8adc0)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&utm_medium=referral&utm_content=G10DRAS/RoboCop&utm_campaign=badger)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Badges](http://img.shields.io/:badges-7/7-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
+
     
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
