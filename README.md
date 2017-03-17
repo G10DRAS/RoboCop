@@ -16,25 +16,33 @@ see python_requirement.txt or [Libs](https://requires.io/github/G10DRAS/RoboCop/
 ##Voice Interfaces to RoboCop:
 
 ###High Quality Microphone
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Mic.jpg "Mic")
 
 ###Bluetooth Headset Support
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/JabraStealth.jpg "Bluetooth Headset")
 
 ###Telegram Bot Interface (Voice + Text)
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TelegramBot.jpg "Telegram Bot")
 
 ###Facebook Messenger Bot Interface (Text)
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FacebookBot.jpg "Facebook Messenger Bot")
 
 ###Cross Plateform Desktop Browsers (Firefox, Chrome)
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FirefoxDesktop.jpg "Desktop Browsers")
 
 ###Android Mobile Browsers (Firefox, Chrome)
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/AWB.jpg "Mobile Browsers")
 
 ###Android App
+
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/ANA.jpg "Android App")
+
 
 ##Security Features:
 
