@@ -132,6 +132,5 @@ wifi==0.3.8
 wikipedia==1.4.0
 wolframalpha==3.0
 ws4py==0.3.5
-wxPython==2.9.1.1
 xmlrunner==1.7.7
 ystockquote==0.2.4
