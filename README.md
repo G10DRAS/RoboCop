@@ -2,8 +2,9 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcbe16a643ea44bf9d2298edc4e8adc0)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&utm_medium=referral&utm_content=G10DRAS/RoboCop&utm_campaign=badger) 
 [![Coverage Status](https://coveralls.io/repos/github/G10DRAS/RoboCop/badge.svg?branch=master)](https://coveralls.io/github/G10DRAS/RoboCop?branch=master) 
+[![Build Status](https://travis-ci.org/G10DRAS/RoboCop.svg?branch=master)](https://travis-ci.org/G10DRAS/RoboCop)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) 
-[![Build Passing](https://rawgithub.com/badges/badger/master/static/travis_passing.svg)](#)
+
 
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
