@@ -78,7 +78,6 @@ pycparser==2.17
 PyDbLite==3.0.4
 PyDictionary==1.5.2
 pyee==3.0.1
-pygobject==3.8.2
 PyGUI==2.5.3
 PyInstaller==3.2
 pyjokes==0.5.0
