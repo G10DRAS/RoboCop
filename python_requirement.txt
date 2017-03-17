@@ -21,7 +21,6 @@ docutils==0.12
 emoji==0.3.9
 enum34==1.1.6
 facebook-sdk==2.0.0
-facerec==1.0
 feedparser==5.2.1
 Flask==0.11.1
 funcsigs==1.0.2
