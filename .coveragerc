@@ -1,0 +1,7 @@
+[run]
+include =
+    Software/*
+[report]
+exclude_lines =
+    pragma: NO COVER
+if __name__ == '__main__':
