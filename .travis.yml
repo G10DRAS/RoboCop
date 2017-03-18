@@ -9,8 +9,8 @@ cache:
 install: 
     - "pip install -r python_requirement.txt  --download-cache $HOME/.pip-cache"
     - "pip install python-coveralls --download-cache $HOME/.pip-cache"
-    - "pip install coverage  --download-cache $HOME/.pip-cache"
-    - "pip install flake8  --download-cache $HOME/.pip-cache"
+    - "pip install coverage"
+    - "pip install flake8"
 before_script:
     - "flake8 RoboCop.py"
     - git config --global user.email "olxboss@gmail.com"
