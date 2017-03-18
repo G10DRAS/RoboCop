@@ -1,5 +1,4 @@
 autopep8==1.2.4
-backs.ssl-match-hostname==3.5.0.1
 beautifulsoup4==4.5.1
 certifi==2016.9.26
 cffi==1.8.3
