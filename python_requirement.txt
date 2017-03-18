@@ -65,7 +65,6 @@ ptyprocess==0.5.1
 pyalsaaudio
 pyasn1-modules==0.0.8
 pyasn1==0.1.9
-PyAudio
 pycparser==2.17
 PyDbLite==3.0.4
 PyDictionary==1.5.2
