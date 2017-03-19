@@ -1,6 +1,6 @@
 # RoboCop (ロボ警官)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d0c9488c3fc444a9e71678ac4ffc8f2)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=G10DRAS/RoboCop&amp;utm_campaign=Badge_Grade)  [![Coverage Status](https://coveralls.io/repos/github/G10DRAS/RoboCop/badge.svg?branch=master)](https://coveralls.io/github/G10DRAS/RoboCop?branch=master) [![Build Status](https://travis-ci.org/G10DRAS/RoboCop.svg?branch=master)](https://travis-ci.org/G10DRAS/RoboCop) [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master) [![License](https://img.shields.io/aur/license/yaourt.svg?style=flat-square)](https://github.com/G10DRAS/RoboCop/blob/master/LICENSE) [![Python Versions](https://img.shields.io/badge/python-2.7%203.4-blue.svg)]() [![GitHub issues](https://img.shields.io/badge/issues-open-orange.svg)](https://github.com/G10DRAS/RoboCop/issues?q=is%3Aopen+is%3Aissue) [![GitHub Pull Requests](https://img.shields.io/badge/pull%20requests-open-orange.svg)](https://github.com/G10DRAS/RoboCop/pulls?q=is%3Aopen)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d0c9488c3fc444a9e71678ac4ffc8f2)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=G10DRAS/RoboCop&amp;utm_campaign=Badge_Grade)  [![Coverage Status](https://coveralls.io/repos/github/G10DRAS/RoboCop/badge.svg?branch=master)](https://coveralls.io/github/G10DRAS/RoboCop?branch=master) [![Build Status](https://travis-ci.org/G10DRAS/RoboCop.svg?branch=master)](https://travis-ci.org/G10DRAS/RoboCop) [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master) [![License](https://img.shields.io/aur/license/yaourt.svg?style=flat-square)](https://github.com/G10DRAS/RoboCop/blob/master/LICENSE) [![Python Versions](https://img.shields.io/badge/python-2.7%203.4-blue.svg)]() [![GitHub Issues](https://img.shields.io/badge/issues-open-orange.svg)](https://github.com/G10DRAS/RoboCop/issues?q=is%3Aopen+is%3Aissue) [![GitHub Pull Requests](https://img.shields.io/badge/pull%20requests-open-orange.svg)](https://github.com/G10DRAS/RoboCop/pulls?q=is%3Aopen)
 
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
 
@@ -160,32 +160,42 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/GlyphControls.jpg "Glyph Control")
 
 ## Home Automation
-* >>>Turn ON First Floor Office Heating
+```sh
+Turn ON First Floor Office Heating
+```
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation.jpg "Home Automation")
 
-* >>> Whats the Temperature at Ground Floor Kitchen
-* >> It is 18.4 degree celcius
+```sh
+Whats the Temperature at Ground Floor Kitchen
+It is 18.4 degree celcius
+```
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation1.jpg "Home Automation")
 
 ## Send Twitts to Twitter
-* >>> What would you like to tweet?
-* >> HAPPY NEW YEAR FRIENDS
+```sh
+What would you like to tweet?
+HAPPY NEW YEAR FRIENDS
+```
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Twitts.jpg "Send Twitts")
 
 ## Animal Game for Kids
-* >> What you want to see
-* >>> Show me a Eagle
-* >> This is a Eagle
+```sh
+What you want to see
+Show me a Eagle
+This is a Eagle
+```
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Eagle.jpg "Kids Game")
 
 ## Spelling Test for Kids
-* >> tell me the spelling of elephant
-* >>> E L E P H A N T
-* >> E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
+```sh
+tell me the spelling of elephant
+E L E P H A N T
+E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
+```
 
 ## Live Face Recognization
 
