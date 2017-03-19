@@ -1,0 +1,4 @@
+[submodule "debpkgs"]
+    path = Raspbian-Pkgs
+    url = https://github.com/G10DRAS/Raspbian-Pkgs/tree/master
+    ignore = dirty
