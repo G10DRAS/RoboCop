@@ -12,7 +12,7 @@ before_install:
     - sudo apt-get update
     - sudo apt-get install libportaudio-dev libportaudio0 libportaudio2 python-pyaudio espeak festival
 install: 
-    - "pip install -r python_requirement.txt  --download-cache $HOME/.pip-cache"
+    - "pip install -r python_requirement.txt"
     - "pip install python-coveralls"
     - "pip install coverage"
     - "pip install flake8"
