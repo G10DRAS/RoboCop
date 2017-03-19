@@ -2,6 +2,3 @@
 	path = debpkgs
 	url = https://github.com/G10DRAS/Raspbian-Pkgs
 ignore = dirty
-[submodule "debpkg"]
-	path = debpkg
-	url = git@github.com:G10DRAS/Raspbian-Pkgs
