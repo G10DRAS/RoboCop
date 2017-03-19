@@ -140,50 +140,50 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ### Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/BeerFinder.jpg "Beer Finder")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/BeerFinder.jpg "Beer Finder")
 
 ## Voice Controlled Games
 * Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TankGame.jpg "Tank Battle Game")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TankGame.jpg "Tank Battle Game")
 
 * Tic Tac Toe
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TicTacToe.jpg "Tic Tac Toe Game")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TicTacToe.jpg "Tic Tac Toe Game")
 
 ## Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Sudoku.jpg "Sudoku Paper Cutting")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Sudoku.jpg "Sudoku Paper Cutting")
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SudokuSolver.jpg "Sudoku Solver")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/SudokuSolver.jpg "Sudoku Solver")
 
 ## Jukebox Control with Glyphs
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/GlyphControls.jpg "Glyph Control")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/GlyphControls.jpg "Glyph Control")
 
 ## Home Automation
 * >>>Turn ON First Floor Office Heating
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation.jpg "Home Automation")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation.jpg "Home Automation")
 
 * >>> Whats the Temperature at Ground Floor Kitchen
 * >> It is 18.4 degree celcius
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/HomeAutomation1.jpg "Home Automation")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation1.jpg "Home Automation")
 
 ## Send Twitts to Twitter
 * >>> What would you like to tweet?
 * >> HAPPY NEW YEAR FRIENDS
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Twitts.jpg "Send Twitts")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Twitts.jpg "Send Twitts")
 
 ## Animal Game for Kids
 * >> What you want to see
 * >>> Show me a Eagle
 * >> This is a Eagle
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Eagle.jpg "Kids Game")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Eagle.jpg "Kids Game")
 
 ## Spelling Test for Kids
 * >> tell me the spelling of elephant
@@ -192,15 +192,15 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ## Live Face Recognization
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FaceRecognition.jpg "Live Face Recognition")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FaceRecognition.jpg "Live Face Recognition")
 
 ## Draw Sketch and Poster
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/SketchAndPoster.jpg "Sketch and Poster")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/SketchAndPoster.jpg "Sketch and Poster")
 
 ## Browser Based Configuration Interface
 * Sample Configuration Page
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/hotwordstt.jpg "Configuration")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/hotwordstt.jpg "Configuration")
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/OpenHAB.jpg "Configuration")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/OpenHAB.jpg "Configuration")
