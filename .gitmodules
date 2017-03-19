@@ -2,7 +2,4 @@
     path = debpkgs
     url = https://github.com/G10DRAS/Raspbian-Pkgs
     ignore = dirty
-[submodule "pocketsphinx"]
-    path = pocketsphinx
-    url = https://github.com/cmusphinx/pocketsphinx
-    ignore = dirty
+
