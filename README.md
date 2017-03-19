@@ -9,7 +9,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/RoboCop.jpg "RoboCop")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/RoboCop.jpg "RoboCop")
 
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
@@ -18,31 +18,31 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ### High Quality Microphone
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/Mic.jpg "Mic")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Mic.jpg "Mic")
 
 ### Bluetooth Headset Support
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/JabraStealth.jpg "Bluetooth Headset")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/JabraStealth.jpg "Bluetooth Headset")
 
 ### Telegram Bot Interface (Voice + Text)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/TelegramBot.jpg "Telegram Bot")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TelegramBot.jpg "Telegram Bot")
 
 ### Facebook Messenger Bot Interface (Text)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FacebookBot.jpg "Facebook Messenger Bot")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FacebookBot.jpg "Facebook Messenger Bot")
 
 ### Cross Plateform Desktop Browsers (Firefox, Chrome)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/FirefoxDesktop.jpg "Desktop Browsers")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FirefoxDesktop.jpg "Desktop Browsers")
 
 ### Android Mobile Browsers (Firefox, Chrome)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/AWB.jpg "Mobile Browsers")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/AWB.jpg "Mobile Browsers")
 
 ### Android App
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/pics/ANA.jpg "Android App")
+![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/ANA.jpg "Android App")
 
 
 ## Security Features:
