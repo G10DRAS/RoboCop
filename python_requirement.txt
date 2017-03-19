@@ -52,7 +52,6 @@ pbr==2.0.0
 pdoc==0.3.2
 pep8==1.7.0
 pexpect==4.2.1
-picamera==1.13
 pifacecommon==4.1.2
 pifacedigitalio==3.0.5
 Pillow==4.0.0
