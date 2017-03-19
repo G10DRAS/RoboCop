@@ -9,8 +9,8 @@ cache:
     - "$HOME/.pip-cache/"
     - "/home/travis/virtualenv/python2.7"
 before_install:
-- sudo apt-get update
-- sudo apt-get install libportaudio-dev-18.1 libportaudio0-18.1-7.1 libportaudio2-19 python-pyaudio-0.2.8 espeak-1.48 festival-2.1
+    - sudo apt-get update
+    - sudo apt-get install libportaudio-dev-18.1 libportaudio0-18.1-7.1 libportaudio2-19 python-pyaudio-0.2.8 espeak-1.48 festival-2.1
 install: 
     - "pip install -r python_requirement.txt  --download-cache $HOME/.pip-cache"
     - "pip install python-coveralls"
