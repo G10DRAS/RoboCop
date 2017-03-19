@@ -1,6 +1,8 @@
 # RoboCop (ロボ警官)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d0c9488c3fc444a9e71678ac4ffc8f2)](https://www.codacy.com/app/g10dras/RoboCop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=G10DRAS/RoboCop&amp;utm_campaign=Badge_Grade)  [![Coverage Status](https://coveralls.io/repos/github/G10DRAS/RoboCop/badge.svg?branch=master)](https://coveralls.io/github/G10DRAS/RoboCop?branch=master) [![Build Status](https://travis-ci.org/G10DRAS/RoboCop.svg?branch=master)](https://travis-ci.org/G10DRAS/RoboCop) [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master) [![License](https://img.shields.io/aur/license/yaourt.svg?style=flat-square)](https://github.com/G10DRAS/RoboCop/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/G10DRAS/RoboCop/issues?q=is%3Aopen+is%3Aissue)
+ [![Python Versions](https://img.shields.io/badge/python-2.7%203.4-blue.svg)]()
+
 
 
 Artificially Intelligent Robot with Computer Vision, Natural Language Processing, Fuzzy Logics, Continuos Learning, Sense and Feelings.
