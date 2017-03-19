@@ -1,5 +1,0 @@
-[submodule "debpkgs"]
-    path = debpkgs
-    url = https://github.com/G10DRAS/Raspbian-Pkgs
-    ignore = dirty
-
