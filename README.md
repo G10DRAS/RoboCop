@@ -24,7 +24,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/rhymes.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/stocknews.png" width="40" height="40" />|<img src="./images/productinfo.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|<img src="./images/kali.png" width="40" height="40" />|<img src="./images/translate.png" width="40" height="40" />|<img src="./images/jukebox.png" width="40" height="40" />|<img src="./images/bluetooth.png" width="40" height="40" />|
 
-|internetradio|homeassistant|horoscope|speaker|santabot|picturegame|alicebot|ambulance|
+|internetradio|home assistant|horoscope|speaker|santabot|picturegame|alicebot|ambulance|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/ambulance.png" width="40" height="40" />|
 
