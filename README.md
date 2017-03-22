@@ -151,26 +151,18 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 <img src="./images/GlyphControls.jpg" width="1200" height="380" />
 
 ## Home Automation
-```sh
-Turn ON First Floor Office Heating
-```
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation.jpg "Home Automation")
-
-```sh
-Whats the Temperature at Ground Floor Kitchen
-It is 18.4 degree celcius
-```
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/HomeAutomation1.jpg "Home Automation")
+|Turn ON First Floor Office Heating|Whats the Temperature at Ground Floor Kitchen        It is 18.4 degree celcius|
+|:---:|:---:|
+|<img src="./images/HomeAutomation.jpg" width="600" height="190" />|<img src="./images/HomeAutomation1.jpg" width="600" height="190" />|
 
 ## Send Twitts to Twitter
 ```sh
 What would you like to tweet?
 HAPPY NEW YEAR FRIENDS
 ```
+<img src="./images/Twitts.jpg" width="1200" height="380" />
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Twitts.jpg "Send Twitts")
 
 ## Animal Game for Kids
 ```sh
@@ -179,7 +171,7 @@ Show me a Eagle
 This is a Eagle
 ```
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Eagle.jpg "Kids Game")
+<img src="./images/Eagle.jpg" width="400" height="200" />
 
 ## Spelling Test for Kids
 ```sh
@@ -190,11 +182,11 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 
 ## Live Face Recognization
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FaceRecognition.jpg "Live Face Recognition")
+<img src="./images/FaceRecognition.jpg" width="400" height="400" />
 
 ## Draw Sketch and Poster
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/SketchAndPoster.jpg "Sketch and Poster")
+<img src="./images/SketchAndPoster.jpg" width="1200" height="380" />
 
 ## Browser Based Configuration Interface
 * Sample Configuration Page
