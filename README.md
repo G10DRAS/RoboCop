@@ -12,13 +12,13 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/facebook.png" width="40" height="40" />|<img src="./images/twitter.png" width="40" height="40" />|<img src="./images/mpd.png" width="40" height="40" />|<img src="./images/gmail.png" width="40" height="40" />|<img src="./images/gcalendar.png" width="40" height="40" />|<img src="./images/gmaps.png" width="40" height="40" />|<img src="./images/openweathermap.png" width="40" height="40" />|<img src="./images/rss.png" width="40" height="40" />|<img src="./images/slack.png" width="40" height="40" />|<img src="./images/time.png" width="40" height="40" />|<img src="./images/wikipedia.png" width="40" height="40" />|<img src="./images/hue.png" width="40" height="40" />|
 
-|classroom|dictionary|jokes|math test|exchange|marksheet|openhab|spelling|sportnews|
+|classroom|dictionary|sudoku|math test|exchange|marksheet|openhab|spelling|sportnews|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/classroom.png" width="40" height="40" />|<img src="./images/dictionary.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/mathtest.png" width="40" height="40" />|<img src="./images/exchange.png" width="40" height="40" />|<img src="./images/marksheet.png" width="40" height="40" />|<img src="./images/openhab.png" width="40" height="40" />|<img src="./images/spellingtest.png" width="40" height="40" />|<img src="./images/sportnews.png" width="40" height="40" />|
+|<img src="./images/classroom.png" width="40" height="40" />|<img src="./images/dictionary.png" width="40" height="40" />|<img src="./images/sudoku.png" width="40" height="40" />|<img src="./images/mathtest.png" width="40" height="40" />|<img src="./images/exchange.png" width="40" height="40" />|<img src="./images/marksheet.png" width="40" height="40" />|<img src="./images/openhab.png" width="40" height="40" />|<img src="./images/spellingtest.png" width="40" height="40" />|<img src="./images/sportnews.png" width="40" height="40" />|
 
-|imdb|sudoku|stockexch|technews|telegram|tictactoe|wolfram|tankbattle|facialexpression|
+|imdb|jokes|stockexch|technews|telegram|tictactoe|wolfram|tankbattle|facialexpression|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/imdb.png" width="40" height="40" />|<img src="./images/sudoku.png" width="40" height="40" />|<img src="./images/stockexchange.png" width="40" height="40" />|<img src="./images/technews.png" width="40" height="40" />|<img src="./images/telegram.png" width="40" height="40" />|<img src="./images/tictactoe.png" width="40" height="40" />|<img src="./images/wolfram.png" width="40" height="40" />|<img src="./images/tankbattle.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|
+|<img src="./images/imdb.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/stockexchange.png" width="40" height="40" />|<img src="./images/technews.png" width="40" height="40" />|<img src="./images/telegram.png" width="40" height="40" />|<img src="./images/tictactoe.png" width="40" height="40" />|<img src="./images/wolfram.png" width="40" height="40" />|<img src="./images/tankbattle.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|
 
 
 ## Python Libraries:
