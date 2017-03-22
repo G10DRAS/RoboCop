@@ -154,14 +154,14 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |Turn ON First Floor Office Heating|Whats the Temperature at Ground Floor Kitchen        It is 18.4 degree celcius|
 |:---:|:---:|
-|<img src="./images/HomeAutomation.jpg" width="600" height="190" />|<img src="./images/HomeAutomation1.jpg" width="600" height="190" />|
+|<img src="./images/HomeAutomation.jpg" width="600" height="220" />|<img src="./images/HomeAutomation1.jpg" width="600" height="220" />|
 
 ## Send Twitts to Twitter
 ```sh
 What would you like to tweet?
 HAPPY NEW YEAR FRIENDS
 ```
-<img src="./images/Twitts.jpg" width="1200" height="380" />
+<img src="./images/Twitts.jpg" width="1200" height="340" />
 
 
 ## Animal Game for Kids
@@ -186,10 +186,10 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 
 ## Draw Sketch and Poster
 
-<img src="./images/SketchAndPoster.jpg" width="1200" height="380" />
+<img src="./images/SketchAndPoster.jpg" width="1200" height="340" />
 
 ## Browser Based Configuration Interface
 
 |Hotword Configuration|OpenHAB Home Automation|
 |:---:|:---:|
-|<img src="./images/hotwordstt.jpg" width="600" height="220" />|<img src="./images/OpenHAB.jpg" width="600" height="220" />|
+|<img src="./images/hotwordstt.jpg" width="600" height="260" />|<img src="./images/OpenHAB.jpg" width="600" height="260" />|
