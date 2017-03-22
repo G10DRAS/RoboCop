@@ -8,9 +8,13 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/RoboCop.jpg "RoboCop")
 
-| facebook | twitter | mpd | gmail | calendar | maps | weather | rss | slack | time | wiki | hue |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./images/facebook.png" width="40" height="40" /> |<img src="./images/twitter.png" width="40" height="40" /> | <img src="./images/mpd.png" width="40" height="40" /> | <img src="./images/gmail.png" width="40" height="40" /> | <img src="./images/gcalendar.png" width="40" height="40" /> | <img src="./images/gmaps.png" width="40" height="40" /> | <img src="./images/openweathermap.png" width="40" height="40" />|<img src="./images/rss.png" width="40" height="40" /> | <img src="./images/slack.png" width="40" height="40" /> | <img src="./images/time.png" width="40" height="40" /> | <img src="./images/wikipedia.png" width="40" height="40" /> | <img src="./images/hue.png" width="40" height="40" /> |
+|facebook|twitter|mpd|gmail|calendar|maps|weather|rss|slack|time|wiki|hue|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/facebook.png" width="40" height="40" />|<img src="./images/twitter.png" width="40" height="40" />|<img src="./images/mpd.png" width="40" height="40" />|<img src="./images/gmail.png" width="40" height="40" />|<img src="./images/gcalendar.png" width="40" height="40" />|<img src="./images/gmaps.png" width="40" height="40" />|<img src="./images/openweathermap.png" width="40" height="40" />|<img src="./images/rss.png" width="40" height="40" />|<img src="./images/slack.png" width="40" height="40" />|<img src="./images/time.png" width="40" height="40" />|<img src="./images/wikipedia.png" width="40" height="40" />|<img src="./images/hue.png" width="40" height="40" />|
+
+|classroom|dictionary|jokes|mathtest|exchange|marksheet|openhab|spellbee|sportnews|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/classroom.png" width="40" height="40" />|<img src="./images/dictionary.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/mathtest.png" width="40" height="40" />|<img src="./images/exchange.png" width="40" height="40" />|<img src="./images/marksheet.png" width="40" height="40" />|<img src="./images/openhab.png" width="40" height="40" />|<img src="./images/spellingtest.png" width="40" height="40" />|<img src="./images/sportnews.png" width="40" height="40" />|
 
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
