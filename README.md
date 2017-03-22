@@ -26,7 +26,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |facialexpression|homeassistant|nfc|horoscope|speaker|gesture|picturegame|alicebot|ambulance|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/faceexpression.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/nfc.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/ambulance.jpg" width="40" height="40" />|
+|<img src="./images/faceexpression.jpg" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/nfc.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/ambulance.png" width="40" height="40" />|
 
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
