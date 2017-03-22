@@ -4,7 +4,7 @@ certifi==2017.1.23
 cffi==1.10.0
 chatbot==1.5.2b
 click==6.7
-g2p_seq2seq==1.0.6
+g2p_seq2seq
 configobj==5.0.6
 cryptography==1.8.1
 Cython==0.25.2
