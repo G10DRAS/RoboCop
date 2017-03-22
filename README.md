@@ -20,6 +20,14 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/imdb.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/stockexchange.png" width="40" height="40" />|<img src="./images/technews.png" width="40" height="40" />|<img src="./images/telegram.png" width="40" height="40" />|<img src="./images/tictactoe.png" width="40" height="40" />|<img src="./images/wolfram.png" width="40" height="40" />|<img src="./images/tankbattle.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|
 
+|rhymes|stocknews|santabot|productinfo|internetradio|kali|translate|jukebox|bluetooth|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/rhymes.png" width="40" height="40" />|<img src="./images/stocknews.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/productinfo.png" width="40" height="40" />|<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/kali.png" width="40" height="40" />|<img src="./images/translate.png" width="40" height="40" />|<img src="./images/jukebox.png" width="40" height="40" />|<img src="./images/bluetooth.png" width="40" height="40" />|
+
+|selfie|homeassistant|nfc|horoscope|speaker|gesture|picturegame|alicebot|ambulance|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/selfie.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/nfc.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/ambulance.png" width="40" height="40" />|
+
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
