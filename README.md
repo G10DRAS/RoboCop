@@ -28,7 +28,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/Mic.jpg" width="200" height="200" />|<img src="./images/JabraStealth.jpg" width="200" height="200" />|<img src="./images/TelegramBot.jpg" width="200" height="200" />|<img src="./images/FacebookBot.jpg" width="200" height="200" />|
+|<img src="./images/Mic.jpg" width="200" height="200" />|<img src="./images/JabraStealth.jpg" width="200" height="200" />|<img src="./images/TelegramBot.jpg" width="200" height="200" />|<img src="./images/FacebookBot.png" width="200" height="200" />|
 
 ### Cross Plateform Desktop Browsers (Firefox, Chrome)
 
