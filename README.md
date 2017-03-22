@@ -189,8 +189,7 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 <img src="./images/SketchAndPoster.jpg" width="1200" height="380" />
 
 ## Browser Based Configuration Interface
-* Sample Configuration Page
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/hotwordstt.jpg "Configuration")
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/OpenHAB.jpg "Configuration")
+|Hotword Configuration|OpenHAB Home Automation|
+|:---:|:---:|
+|<img src="./images/hotwordstt.jpg" width="600" height="220" />|<img src="./images/OpenHAB.jpg" width="600" height="220" />|
