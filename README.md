@@ -6,7 +6,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
-<img src="./images/RoboCop.jpg" width="1200" height="400" />
+<img src="./images/RoboCop.jpg" width="1200" height="380" />
 
 |facebook|twitter|mpd|gmail|calendar|maps|weather|rss|slack|time|wiki|hue|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -19,7 +19,6 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |imdb|jokes|stockexch|technews|telegram|tictactoe|wolfram|tankbattle|facialexpression|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/imdb.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/stockexchange.png" width="40" height="40" />|<img src="./images/technews.png" width="40" height="40" />|<img src="./images/telegram.png" width="40" height="40" />|<img src="./images/tictactoe.png" width="40" height="40" />|<img src="./images/wolfram.png" width="40" height="40" />|<img src="./images/tankbattle.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|
-
 
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
@@ -129,27 +128,27 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ### Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/BeerFinder.jpg "Beer Finder")
+<img src="./images/BeerFinder.jpg" width="1200" height="380" />
 
 ## Voice Controlled Games
 * Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TankGame.jpg "Tank Battle Game")
+<img src="./images/TankGame.jpg" width="1200" height="380" />
 
 * Tic Tac Toe
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TicTacToe.jpg "Tic Tac Toe Game")
+<img src="./images/TicTacToe.jpg" width="1200" height="380" />
 
 ## Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Sudoku.jpg "Sudoku Paper Cutting")
+<img src="./images/Sudoku.jpg" width="1200" height="380" />
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/SudokuSolver.jpg "Sudoku Solver")
+<img src="./images/SudokuSolver.jpg" width="1200" height="380" />
 
 ## Jukebox Control with Glyphs
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/GlyphControls.jpg "Glyph Control")
+<img src="./images/GlyphControls.jpg" width="1200" height="380" />
 
 ## Home Automation
 ```sh
