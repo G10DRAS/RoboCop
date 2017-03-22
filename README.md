@@ -6,7 +6,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/RoboCop.jpg "RoboCop")
+<img src="./images/RoboCop.jpg" width="1200" height="400" />
 
 |facebook|twitter|mpd|gmail|calendar|maps|weather|rss|slack|time|wiki|hue|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -26,21 +26,9 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 ## Voice Interfaces to RoboCop:
 
-### High Quality Microphone
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/Mic.jpg "Mic")
-
-### Bluetooth Headset Support
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/JabraStealth.jpg "Bluetooth Headset")
-
-### Telegram Bot Interface (Voice + Text)
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/TelegramBot.jpg "Telegram Bot")
-
-### Facebook Messenger Bot Interface (Text)
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FacebookBot.jpg "Facebook Messenger Bot")
+|High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|
+|:---:|:---:|:---:|:---:|
+|<img src="./images/Mic.jpg" width="200" height="200" />|<img src="./images/JabraStealth.jpg" width="200" height="200" />|<img src="./images/TelegramBot.jpg" width="200" height="200" />|<img src="./images/FacebookBot.jpg" width="200" height="200" />|
 
 ### Cross Plateform Desktop Browsers (Firefox, Chrome)
 
