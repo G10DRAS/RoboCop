@@ -41,6 +41,75 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|
 |<img src="./images/FirefoxDesktop.jpg" width="200" height="200" />|<img src="./images/AWB.jpg" width="200" height="200" />|<img src="./images/AndroidApp.jpg" width="200" height="200" />|<img src="./images/Webcam.png" width="200" height="200" />|
 
+### Super Market Helper Mode
+* Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
+
+<img src="./images/BeerFinder.jpg" width="1200" height="380" />
+
+## Voice Controlled Games
+* Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
+
+<img src="./images/TankGame.jpg" width="1200" height="380" />
+
+* Tic Tac Toe
+
+<img src="./images/TicTacToe.jpg" width="1200" height="380" />
+
+## Sudoku Solver
+* Solve a Sudoku Puzzle by looking into paper cutting
+
+<img src="./images/Sudoku.jpg" width="1200" height="380" />
+
+<img src="./images/SudokuSolver.jpg" width="1200" height="380" />
+
+## Jukebox Control with Glyphs
+
+<img src="./images/GlyphControls.jpg" width="1200" height="380" />
+
+## Home Automation
+
+|Turn ON First Floor Office Heating|Whats the Temperature at Ground Floor Kitchen        It is 18.4 degree celcius|
+|:---:|:---:|
+|<img src="./images/HomeAutomation.jpg" width="600" height="220" />|<img src="./images/HomeAutomation1.jpg" width="600" height="220" />|
+
+## Send Twitts to Twitter
+```sh
+What would you like to tweet?
+HAPPY NEW YEAR FRIENDS
+```
+<img src="./images/Twitts.jpg" width="1200" height="340" />
+
+
+## Animal Game for Kids
+```sh
+What you want to see
+Show me a Eagle
+This is a Eagle
+```
+
+<img src="./images/Eagle.jpg" width="400" height="200" />
+
+## Spelling Test for Kids
+```sh
+tell me the spelling of elephant
+E L E P H A N T
+E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
+```
+
+## Live Face Recognization
+
+<img src="./images/FaceRecognition.jpg" width="400" height="400" />
+
+## Draw Sketch and Poster
+
+<img src="./images/SketchAndPoster.jpg" width="1200" height="340" />
+
+## Browser Based Configuration Interface
+
+|Hotword Configuration|OpenHAB Home Automation|
+|:---:|:---:|
+|<img src="./images/hotwordstt.jpg" width="600" height="260" />|<img src="./images/OpenHAB.jpg" width="600" height="260" />|
+
 ## Security Features:
 
 * Live Face Recognition.
@@ -132,72 +201,3 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 * Chat with Alice in Wonderland
 * Chat with CleverBot.
 * Chat with DrumphBot.
-
-### Super Market Helper Mode
-* Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
-
-<img src="./images/BeerFinder.jpg" width="1200" height="380" />
-
-## Voice Controlled Games
-* Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
-
-<img src="./images/TankGame.jpg" width="1200" height="380" />
-
-* Tic Tac Toe
-
-<img src="./images/TicTacToe.jpg" width="1200" height="380" />
-
-## Sudoku Solver
-* Solve a Sudoku Puzzle by looking into paper cutting
-
-<img src="./images/Sudoku.jpg" width="1200" height="380" />
-
-<img src="./images/SudokuSolver.jpg" width="1200" height="380" />
-
-## Jukebox Control with Glyphs
-
-<img src="./images/GlyphControls.jpg" width="1200" height="380" />
-
-## Home Automation
-
-|Turn ON First Floor Office Heating|Whats the Temperature at Ground Floor Kitchen        It is 18.4 degree celcius|
-|:---:|:---:|
-|<img src="./images/HomeAutomation.jpg" width="600" height="220" />|<img src="./images/HomeAutomation1.jpg" width="600" height="220" />|
-
-## Send Twitts to Twitter
-```sh
-What would you like to tweet?
-HAPPY NEW YEAR FRIENDS
-```
-<img src="./images/Twitts.jpg" width="1200" height="340" />
-
-
-## Animal Game for Kids
-```sh
-What you want to see
-Show me a Eagle
-This is a Eagle
-```
-
-<img src="./images/Eagle.jpg" width="400" height="200" />
-
-## Spelling Test for Kids
-```sh
-tell me the spelling of elephant
-E L E P H A N T
-E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
-```
-
-## Live Face Recognization
-
-<img src="./images/FaceRecognition.jpg" width="400" height="400" />
-
-## Draw Sketch and Poster
-
-<img src="./images/SketchAndPoster.jpg" width="1200" height="340" />
-
-## Browser Based Configuration Interface
-
-|Hotword Configuration|OpenHAB Home Automation|
-|:---:|:---:|
-|<img src="./images/hotwordstt.jpg" width="600" height="260" />|<img src="./images/OpenHAB.jpg" width="600" height="260" />|
