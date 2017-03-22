@@ -30,18 +30,9 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|
 |<img src="./images/Mic.jpg" width="200" height="200" />|<img src="./images/JabraStealth.jpg" width="200" height="200" />|<img src="./images/TelegramBot.jpg" width="200" height="200" />|<img src="./images/FacebookBot.png" width="200" height="200" />|
 
-### Cross Plateform Desktop Browsers (Firefox, Chrome)
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/FirefoxDesktop.jpg "Desktop Browsers")
-
-### Android Mobile Browsers (Firefox, Chrome)
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/AWB.jpg "Mobile Browsers")
-
-### Android App
-
-![Alt text](https://github.com/G10DRAS/RoboCop/blob/master/images/ANA.jpg "Android App")
-
+|Cross Plateform Desktop Browsers (Firefox, Chrome)|Android Mobile Browsers (Firefox, Chrome)|Android App|Webcam Interface|
+|:---:|:---:|:---:|:---:|
+|<img src="./images/FirefoxDesktop.jpg" width="200" height="200" />|<img src="./images/AWB.jpg" width="200" height="200" />|<img src="./images/AndroidApp.jpg" width="200" height="200" />|<img src="./images/Webcam.png" width="200" height="200" />|
 
 ## Security Features:
 
