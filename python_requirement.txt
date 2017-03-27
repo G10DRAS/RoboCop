@@ -115,7 +115,7 @@ Werkzeug==0.12.1
 wifi==0.3.8
 wikipedia==1.4.0
 wolframalpha==3.0
-ws4py==0.4.0
+ws4py==0.4.1
 xmlrunner==1.7.7
 ystockquote==0.2.5
 
