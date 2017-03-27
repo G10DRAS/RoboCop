@@ -23,9 +23,9 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/rhymes.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/stocknews.png" width="40" height="40" />|<img src="./images/productinfo.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|<img src="./images/kali.png" width="40" height="40" />|<img src="./images/translate.png" width="40" height="40" />|<img src="./images/jukebox.png" width="40" height="40" />|<img src="./images/bluetooth.png" width="40" height="40" />|
 
-|internetradio|homeassistant|horoscope|cleverbot|santabot|picturegame|alicebot|ambulance|
+|internetradio|homeassistant|horoscope|cleverbot|santabot|picturegame|alicebot|uber|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/cleverbot.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/ambulance.png" width="40" height="40" />|
+|<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/cleverbot.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/picturegame.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/uber.png" width="40" height="40" />|
 
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
