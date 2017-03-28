@@ -30,9 +30,9 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
-|opencv|matlab|tensorflow|pulseaudio|pyaudio|python|debian|dejavu|julius|alsa|espeak|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/opencv.png" width="40" height="40" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/python.jpg" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/alsa.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|
+|opencv|matlab|tensorflow|pulseaudio|pyaudio|debian|dejavu|julius|alsa|espeak|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/opencv.png" width="40" height="40" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/alsa.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|
 
 ## Voice Interfaces to RoboCop:
 
