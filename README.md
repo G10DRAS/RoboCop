@@ -34,6 +34,12 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/opencv.png" width="40" height="40" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/alsa.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|
 
+## Hardware:
+
+|raspberrypi|wifiadapter|bluetoothadapter|3gModem|powerbank|
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|
+
 ## Voice Interfaces to RoboCop:
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|
