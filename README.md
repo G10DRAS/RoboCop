@@ -44,11 +44,11 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/Mic.jpg" width="200" height="200" />|<img src="./images/JabraStealth.jpg" width="200" height="200" />|<img src="./images/TelegramBot.jpg" width="200" height="200" />|<img src="./images/FacebookBot.png" width="200" height="200" />|
+|<img src="./images/Mic.jpg" width="150" height="150" />|<img src="./images/JabraStealth.jpg" width="150" height="150" />|<img src="./images/TelegramBot.jpg" width="150" height="150" />|<img src="./images/FacebookBot.png" width="150" height="150" />|
 
 |Cross Plateform Desktop Browsers (Firefox, Chrome)|Android Mobile Browsers (Firefox, Chrome)|Android App|Webcam Interface|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/FirefoxDesktop.jpg" width="200" height="200" />|<img src="./images/AWB.jpg" width="200" height="200" />|<img src="./images/AndroidApp.jpg" width="200" height="200" />|<img src="./images/Webcam.png" width="200" height="200" />|
+|<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="150" />|<img src="./images/AndroidApp.jpg" width="150" height="150" />|<img src="./images/Webcam.png" width="150" height="150" />|
 
 ### Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
