@@ -157,11 +157,12 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 * Play Tic Tc Toe (Voice Commands)
 * Japanese Game Janken (じゃん拳)
 
-### Spy Mode (Rocker)
+### Spy/Stealth Mode (Rocker)
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
 * Bluetooth (MAC Finder : Who is around | Is SHE Around)
 * RFID (Scanning)
 * NFC (NFC Automation)
+* Evil Twin Wireless Access Point
 * Kali Linux (Metasploit Payloads Automation) 
 
 ### Home Automation Mode
