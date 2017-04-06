@@ -31,7 +31,7 @@ idna==2.5
 imutils==0.4.0
 ipaddress==1.0.18
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.9.6
 lxml==3.7.3
 MarkupSafe==1.0
 matplotlib==2.0.0
@@ -53,7 +53,7 @@ pep8==1.7.0
 pexpect==4.2.1
 pifacecommon==4.1.2
 pifacedigitalio==3.0.5
-Pillow==4.0.0
+Pillow==4.1.0
 pip==9.0.1
 ply==3.10
 protobuf==3.2.0
