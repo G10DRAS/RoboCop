@@ -33,7 +33,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |opencv|matlab|tensorflow|pulseaudio|pyaudio|debian|dejavu|julius|alsa|espeak|bluez|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/opencv.png" width="40" height="40" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/alsa.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|<img src="./images/bluez.jpg" width="40" height="40" />|
+|<img src="./images/opencv.png" width="35" height="35" />|<img src="./images/matlab.png" width="35" height="35" />|<img src="./images/tensorflow.png" width="35" height="35" />|<img src="./images/pulseaudio.png" width="35" height="35" />|<img src="./images/pyaudio.png" width="35" height="35" />|<img src="./images/debian.jpg" width="35" height="35" />|<img src="./images/dejavu.png" width="35" height="35" />|<img src="./images/julius.png" width="35" height="35" />|<img src="./images/alsa.png" width="35" height="35" />|<img src="./images/espeak.png" width="35" height="35" />|<img src="./images/bluez.jpg" width="35" height="35" />|
 
 ## Hardware:
 
