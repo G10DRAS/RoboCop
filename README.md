@@ -57,9 +57,10 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 <img src="./images/BeerFinder.jpg" width="1200" height="380" />
 
 ## Voice Controlled Games
-* Tank Battle Game (FURRY). Destroy Enemy Tank by controlling your FURRY with your voice. //===--
-
-<img src="./images/TankGame.jpg" width="1200" height="380" />
+* Destroy Enemy Tank by controlling your FURRY with your voice. //===--
+|Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
+|:---:|:---:|
+|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
 
 * Tic Tac Toe
 
