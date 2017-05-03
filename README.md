@@ -80,7 +80,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |Turn ON First Floor Office Heating|Home Automation Live in Action|
 |:---:|:---:|
-|<img src="./images/HomeAutomation.jpg" width="600" height="220" />|[<img src="./images/HomeAutomation1.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=qR8Iqsu_Vlo)|
+|<img src="./images/HomeAutomation.jpg" width="600" height="220" />|[<img src="./images/HAYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=qR8Iqsu_Vlo)|
 
 ## Send Twitts to Twitter
 ```sh
