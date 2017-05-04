@@ -39,7 +39,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |raspberrypi 2B/3|wifi adapter|stealth wifi adapter|bluetooth adapter|3g modem|sound card|power bank|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|
+|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard2.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|
 
 ## Voice Interfaces to RoboCop:
 
