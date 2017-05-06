@@ -117,17 +117,17 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 
 ## Live Face Recognization
 
-<img src="./images/FaceRecognition.jpg" width="400" height="400" />
+<img src="./images/FaceRecognition.jpg" width="300" height="300" />
 
 ## Draw Sketch and Poster
 
-<img src="./images/SketchAndPoster.jpg" width="1200" height="340" />
+<img src="./images/SketchAndPoster.jpg" width="1200" height="300" />
 
 ## Browser Based Configuration Interface
 
 |Hotword Configuration|OpenHAB Home Automation|
 |:---:|:---:|
-|<img src="./images/hotwordstt.jpg" width="600" height="260" />|<img src="./images/OpenHAB.jpg" width="600" height="260" />|
+|<img src="./images/hotwordstt.jpg" width="600" height="300" />|<img src="./images/OpenHAB.jpg" width="600" height="300" />|
 
 ## Security Features:
 
