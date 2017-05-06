@@ -81,6 +81,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 |Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action|
 |:---:|:---:|
 |<img src="./images/BlueSpeaker.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
+
 ## Jukebox Control with Glyphs
 
 <img src="./images/GlyphControls.jpg" width="1200" height="380" />
@@ -96,7 +97,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 What would you like to tweet?
 HAPPY NEW YEAR FRIENDS
 ```
-<img src="./images/Twitts.jpg" width="1200" height="340" />
+<img src="./images/Twitts.jpg" width="1200" height="300" />
 
 
 ## Animal Game for Kids
