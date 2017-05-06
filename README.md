@@ -8,7 +8,7 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
-<img src="./images/RoboCop.jpg" width="1200" height="380" />
+<img src="./images/RoboCop.jpg" width="1200" height="300" />
 
 |facebook|twitter|mpd|gmail|calendar|maps|weather|rss|slack|time|wiki|hue|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
