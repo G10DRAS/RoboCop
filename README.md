@@ -54,33 +54,40 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 ### Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
 
-<img src="./images/BeerFinder.jpg" width="1200" height="380" />
+<img src="./images/BeerFinder.jpg" width="1200" height="300" />
 
 ## Voice Controlled Games
 * Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
 |Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
 |:---:|:---:|
-|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
+|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=-CZvC4g5ZUk)|
 
 * Tic Tac Toe
 
-<img src="./images/TicTacToe.jpg" width="1200" height="380" />
+<img src="./images/TicTacToe.jpg" width="1200" height="300" />
 
 ## Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
 
-<img src="./images/Sudoku.jpg" width="1200" height="380" />
+<img src="./images/Sudoku.jpg" width="1200" height="300" />
 
-<img src="./images/SudokuSolver.jpg" width="1200" height="380" />
+<img src="./images/SudokuSolver.jpg" width="1200" height="300" />
 
+## Speech Recognition Jukebox (SRJuke)
+* Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...).
+* Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
+
+|Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action|
+|:---:|:---:|
+|<img src="./images/BlueSpeaker.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
 ## Jukebox Control with Glyphs
 
 <img src="./images/GlyphControls.jpg" width="1200" height="380" />
 
 ## Home Automation
 
-|Turn ON First Floor Office Heating|Home Automation Live in Action|
+|OpenHAB Home Automation|Home Automation Live in Action|
 |:---:|:---:|
 |<img src="./images/HomeAutomation.jpg" width="600" height="220" />|[<img src="./images/HAYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=qR8Iqsu_Vlo)|
 
