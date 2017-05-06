@@ -61,7 +61,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
 |:---:|:---:|
-|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=-CZvC4g5ZUk)|
+|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
 
 * Tic Tac Toe
 
@@ -80,7 +80,7 @@ Artificially Intelligent Robot with Computer Vision, Natural Language Processing
 
 |Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action|
 |:---:|:---:|
-|<img src="./images/BlueSpeaker.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
+|<img src="./images/BlueSpeaker.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=-CZvC4g5ZUk)|
 
 ## Jukebox Control with Glyphs
 
@@ -98,7 +98,6 @@ What would you like to tweet?
 HAPPY NEW YEAR FRIENDS
 ```
 <img src="./images/Twitts.jpg" width="1200" height="300" />
-
 
 ## Animal Game for Kids
 ```sh
