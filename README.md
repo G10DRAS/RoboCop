@@ -101,6 +101,16 @@ HAPPY NEW YEAR FRIENDS
 ```
 <img src="./images/Twitts.jpg" width="1200" height="300" />
 
+## Spelling Test for Kids
+```sh
+tell me the spelling of elephant
+E L E P H A N T
+E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
+```
+|Spelling Test|Spelling Test Live in Action|
+|:---:|:---:|
+|<img src="./images/SpellBee.jpg" width="600" height="220" />|[<img src="./images/SpellingTest.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=7qgtPXcuRjA)|
+
 ## Animal Game for Kids
 ```sh
 What you want to see
@@ -109,13 +119,6 @@ This is a Eagle
 ```
 
 <img src="./images/Eagle.jpg" width="400" height="200" />
-
-## Spelling Test for Kids
-```sh
-tell me the spelling of elephant
-E L E P H A N T
-E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
-```
 
 ## Live Face Recognization
 
