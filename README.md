@@ -65,6 +65,12 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 |:---:|:---:|
 |<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
 
+* Ink Spill Game.
+
+|Ink Spill Game|Ink Spill Live in Action|
+|:---:|:---:|
+|<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
+
 * Tic Tac Toe
 
 <img src="./images/TicTacToe.jpg" width="1200" height="300" />
