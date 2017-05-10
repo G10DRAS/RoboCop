@@ -83,12 +83,12 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 |:---:|
 |<img src="./images/TicTacToe.jpg" width="1200" height="220" />|
 
-## Sudoku Solver
-* Solve a Sudoku Puzzle by looking into paper cutting
+* Sudoku Solver
 
-<img src="./images/Sudoku.jpg" width="1200" height="300" />
-
-<img src="./images/SudokuSolver.jpg" width="1200" height="300" />
+|Solve a Sudoku Puzzle by looking into paper cutting|
+|:---:|
+|<img src="./images/Sudoku.jpg" width="1200" height="220" />|
+|<img src="./images/SudokuSolver.jpg" width="1200" height="220" />|
 
 ## Speech Recognition Jukebox (SRJuke)
 * Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...).
