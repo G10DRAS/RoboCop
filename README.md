@@ -71,9 +71,17 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 |:---:|:---:|
 |<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
 
+* Slide Puzzle Game.
+
+|Slide Puzzle Game|Slide Puzzle Live in Action|
+|:---:|:---:|
+|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SlidePuzzle.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
+
 * Tic Tac Toe
 
-<img src="./images/TicTacToe.jpg" width="1200" height="300" />
+|Tic Tac Toe Game|
+|:---:|
+|<img src="./images/TicTacToe.jpg" width="1200" height="220" />|
 
 ## Sudoku Solver
 * Solve a Sudoku Puzzle by looking into paper cutting
