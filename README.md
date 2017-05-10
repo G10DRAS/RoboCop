@@ -56,7 +56,9 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 ### Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
 
-<img src="./images/BeerFinder.jpg" width="1200" height="300" />
+|Super Market Helper|
+|:---:|
+|<img src="./images/BeerFinder.jpg" width="1200" height="220" />|
 
 ## Voice Controlled Games
 * Destroy Enemy Tank by controlling your FURRY with your voice. //===--
@@ -100,7 +102,9 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 
 ## Jukebox Control with Glyphs
 
-<img src="./images/GlyphControls.jpg" width="1200" height="380" />
+|Jukebox Control with Glyphs|
+|:---:|
+|<img src="./images/GlyphControls.jpg" width="1200" height="220" />|
 
 ## Home Automation
 
@@ -113,7 +117,9 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 What would you like to tweet?
 HAPPY NEW YEAR FRIENDS
 ```
-<img src="./images/Twitts.jpg" width="1200" height="300" />
+|Send Twitts, Twitter Trends...|
+|:---:|
+|<img src="./images/Twitts.jpg" width="1200" height="220" />|
 
 ## Spelling Test for Kids
 ```sh
@@ -131,8 +137,9 @@ What you want to see
 Show me a Eagle
 This is a Eagle
 ```
-
-<img src="./images/Eagle.jpg" width="400" height="200" />
+|Animal Picture Game|
+|:---:|
+|<img src="./images/Eagle.jpg" width="1200" height="220" />|
 
 ## Live Face Recognization
 
@@ -140,7 +147,9 @@ This is a Eagle
 
 ## Draw Sketch and Poster
 
-<img src="./images/SketchAndPoster.jpg" width="1200" height="300" />
+|Draw Sketch and Poster|
+|:---:|
+|<img src="./images/SketchAndPoster.jpg" width="1200" height="220" />|
 
 ## Browser Based Configuration Interface
 
