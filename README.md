@@ -85,7 +85,7 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 |:---:|
 |<img src="./images/TicTacToe.jpg" width="1200" height="220" />|
 
-* Sudoku Solver
+## Sudoku Solver
 
 |Solve a Sudoku Puzzle by looking into paper cutting|
 |:---:|
