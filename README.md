@@ -49,7 +49,7 @@ Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 |:---:|:---:|:---:|:---:|
 |<img src="./images/Mic.jpg" width="150" height="150" />|<img src="./images/JabraStealth.jpg" width="150" height="150" />|<img src="./images/TelegramBot.jpg" width="150" height="150" />|<img src="./images/FacebookBot.png" width="150" height="150" />|
 
-|Cross Plateform Desktop Browsers (Firefox, Chrome)|Android Mobile Browsers (Firefox, Chrome)|Android App|Webcam Interface|
+|Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Android App|Webcam Interface|
 |:---:|:---:|:---:|:---:|
 |<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="150" />|<img src="./images/AndroidApp.jpg" width="150" height="150" />|<img src="./images/Webcam.png" width="150" height="150" />|
 
