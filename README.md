@@ -190,9 +190,11 @@ This is a Eagle
 * Recognise Kids activity (playing, sleeping, crowling, seating....).
 * Play picture game.
 * Play math puzzles and check the answers.
-* Play spelling bee game and check the spelling.
+* Play Spelling Bee Game and check the spelling.
 * Play Tank Game (Voice Commands)
 * Play Tic Tc Toe (Voice Commands)
+* Play Ink Spill Game (Voice Commands)
+* Play Slide Puzzle Game (Voice Commands)
 * Japanese Game Janken (じゃん拳)
 
 ### Spy/Stealth Mode (Rocker)
@@ -209,6 +211,7 @@ This is a Eagle
 * Domoticz
 * Phillips Hue
 * Pi controlled Relay
+* Search all running services in LAN. (AppleTV, SmartTV, Hue, Routers...)
 
 ### General Mode
 * Facebook (Birthday, Notification....)
