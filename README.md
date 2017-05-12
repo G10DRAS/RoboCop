@@ -196,6 +196,7 @@ This is a Eagle
 * Play Ink Spill Game (Voice Commands)
 * Play Slide Puzzle Game (Voice Commands)
 * Japanese Game Janken (じゃん拳)
+* Take Picture and Print Sketch and Posters for Kids fun activities.
 
 ### Spy/Stealth Mode (Rocker)
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
