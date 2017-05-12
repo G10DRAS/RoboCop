@@ -4,7 +4,7 @@
 
 Artificially Intelligent Personal Assistant with Computer Vision, Natural Language Processing, Continuos Learning, Sense and Feelings.
 
-No Internet Required, Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
+No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
