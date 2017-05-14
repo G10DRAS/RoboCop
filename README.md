@@ -47,7 +47,7 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/Mic.jpg" width="150" height="150" />|<img src="./images/JabraStealth.jpg" width="150" height="150" />|<img src="./images/TelegramBot.jpg" width="150" height="150" />|<img src="./images/FacebookBot.png" width="150" height="150" />|
+|<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|
 
 |Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Android App|Webcam Interface (Voice, Image, Video, Gesture)|
 |:---:|:---:|:---:|:---:|
