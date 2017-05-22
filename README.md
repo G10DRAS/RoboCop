@@ -248,7 +248,7 @@ This is a Eagle
 * Check the noise level in classroom and .... students.
 * Provide assistance to Teacher.
 
-### Chat Mode
+### Chat (Conversation) Mode
 * Chat with Santa.
 * Chat with Alice in Wonderland
 * Chat with CleverBot.
