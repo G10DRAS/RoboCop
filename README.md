@@ -102,9 +102,9 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 
 ## Jukebox Control with Glyphs
 
-|Jukebox Control with Glyphs|
-|:---:|
-|<img src="./images/GlyphControls.jpg" width="1200" height="220" />|
+|Jukebox Control with Glyphs|Glyphs Cards|
+|:---:|:---:|
+|<img src="./images/GlyphControls.jpg" width="600" height="220" />|<img src="./images/GlyphCards.jpg" width="600" height="220" />
 
 ## Home Automation
 
