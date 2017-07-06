@@ -92,6 +92,14 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 |<img src="./images/Sudoku.jpg" width="1200" height="220" />|
 |<img src="./images/SudokuSolver.jpg" width="1200" height="220" />|
 
+## Speech Recognition Gramophone
+* Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...).
+* Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
+
+|Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action|
+|:---:|:---:|
+|<img src="./images/gramophone.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=-CZvC4g5ZUk)|
+
 ## Speech Recognition Jukebox (SRJuke)
 * Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...).
 * Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
