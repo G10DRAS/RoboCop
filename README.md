@@ -49,7 +49,7 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|<img src="./images/AndroidApp.jpg" width="150" height="150" />|
 
-|Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Webcam Interface (Voice, Image, Video, Gesture)|IP Camera (Remote Images)|
+|Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Webcam Interface (Voice, Image, Video, Gesture)|Security IP Camera (Remote Images)|
 |:---:|:---:|:---:|:---:|
 |<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="150" />|<img src="./images/Webcam.png" width="150" height="150" />|<img src="./images/IPCamera.jpg" width="150" height="150" />|
 
