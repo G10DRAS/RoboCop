@@ -45,7 +45,7 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 
 ## Voice Interfaces to RoboCop:
 
-|High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|Android App|
+|High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|Android App (Voice)|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|<img src="./images/AndroidApp.jpg" width="150" height="150" />|
 
