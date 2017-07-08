@@ -77,7 +77,7 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 
 |Slide Puzzle Game|Slide Puzzle Live in Action|
 |:---:|:---:|
-|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SlidePuzzle.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
+|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
 
 * Tic Tac Toe
 
