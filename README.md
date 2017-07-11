@@ -139,6 +139,14 @@ E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 |:---:|:---:|
 |<img src="./images/SpellBee.jpg" width="600" height="220" />|[<img src="./images/SpellingTest.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=7qgtPXcuRjA)|
 
+## Storyteller
+```sh
+RoboCop tell me a Story
+```
+|RoboCop The Storyteller|
+|:---:|
+|<img src="./images/StoryTeller.jpg" width="1200" height="220" />|
+
 ## Animal Game for Kids
 ```sh
 What you want to see
