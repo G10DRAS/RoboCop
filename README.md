@@ -30,6 +30,10 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/cleverbot.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/aiml.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/uber.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|
 
+|arduino|space station|forum|nasdaq|shutdown|quote|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/arduino.png" width="40" height="40" />|<img src="./images/iss.png" width="40" height="40" />|<img src="./images/forum.png" width="40" height="40" />|<img src="./images/nasdaq.png" width="40" height="40" />|<img src="./images/shutdown.png" width="40" height="40" />|<img src="./images/qotd.png" width="40" height="40" />|
+
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
