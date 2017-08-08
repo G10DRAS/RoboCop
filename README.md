@@ -37,9 +37,9 @@ No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Atta
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
-|opencv|matlab|tensorflow|pulse|pyaudio|debian|dejavu|julius|espeak|bluez|dlib|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/opencv.png" width="40" height="38" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|<img src="./images/bluez.jpg" width="40" height="40" />|<img src="./images/dlib.png" width="40" height="40" />|
+|pocketsphinx|opencv|matlab|tensorflow|pulse|pyaudio|debian|dejavu|julius|espeak|bluez|dlib|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/cmusphinx.png" width="40" height="38" />|<img src="./images/opencv.png" width="40" height="38" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/debian.jpg" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|<img src="./images/bluez.jpg" width="40" height="40" />|<img src="./images/dlib.png" width="40" height="40" />|
 
 ## Hardware:
 
