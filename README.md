@@ -6,6 +6,8 @@ Artificially Intelligent Personal Assistant with Computer Vision, Natural Langua
 
 No Internet Required (Offline Speech-To-Text), Hacking Proof, Man-In-Middle Attack Proof, 100% Privacy and Zero Inconvenience.
 
+Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice.
+
 コンピュータビジョンを考慮した人工知能ロボット, 自然言語処理、ファジー論理、継続学習、センスと感情。
 
 <img src="./images/RoboCop.jpg" width="1200" height="300" />
@@ -203,8 +205,8 @@ This is a Eagle
 * Dial 100 facility. 
 * Dial Ambulance if Intruder looks injured.
 
-### Kids Engagement Mode (Robo Nanny)
-* Tell the story by scanning pages from paper book.
+### Kids Engagement Mode (Robo Nanny/Mother)
+* Tell the story, by scanning pages from paper book or read e-book, in Mother or Grandma's orignal voice.
 * Play Rhymes of your choice. ("Play Wheel on the Bus")
 * Detects kid's facial expression and play Rhymes accordingly. (experimental)
 * Recognise Kids activity (playing, sleeping, crowling, seating....).
@@ -268,7 +270,7 @@ This is a Eagle
 * Check the noise level in classroom and .... students.
 * Provide assistance to Teacher.
 
-### Chat (Conversation) Mode
+### Chat (Conversation) Mode with custom voices
 * Chat with Santa.
 * Chat with Alice in Wonderland
 * Chat with CleverBot.
