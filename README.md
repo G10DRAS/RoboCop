@@ -59,14 +59,14 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|
 |<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="150" />|<img src="./images/Webcam.png" width="150" height="150" />|<img src="./images/IPCamera.jpg" width="150" height="150" />|
 
-### Super Market Helper Mode
+## Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
 
 |Super Market Helper|
 |:---:|
 |<img src="./images/BeerFinder.jpg" width="1200" height="220" />|
 
-### RoboCop - The Singer
+## The Singer
 * Show it a music sheet of a song, it will read it, convert sheet music in to the machine readable format and then sing that song like a singer. If you donate your voice to Robocop, it will sing that song in your voice. (Super Awesome)
 
 |RoboCop - The Singer|Sample Song|
