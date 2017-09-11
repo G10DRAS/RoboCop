@@ -66,6 +66,13 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|
 |<img src="./images/BeerFinder.jpg" width="1200" height="220" />|
 
+### RoboCop - The Singer
+* Show it a music sheet of a song, it will read it, convert sheet music in to the machine readable format and then sing that song like a singer. If you donate your voice to Robocop, it will sing that song in your voice. (Super Awesome)
+
+|RoboCop - The Singer|Sample Song|
+|:---:|:---:|
+|<img src="./images/robosinger.jpg" width="1000" height="220" />|[<img src="./images/wav.jpg" width="200" height="220" />](./images/baabaablacksheep.wav)|
+
 ## Voice Controlled Games
 * Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
