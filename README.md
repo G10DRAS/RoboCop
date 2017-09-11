@@ -73,31 +73,6 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|
 |<img src="./images/robosinger.jpg" width="1000" height="220" />|[<img src="./images/wav.jpg" width="200" height="220" />](./images/baabaablacksheep.wav)|
 
-## Voice Controlled Games
-* Destroy Enemy Tank by controlling your FURRY with your voice. //===--
-
-|Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
-|:---:|:---:|
-|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
-
-* Ink Spill Game.
-
-|Ink Spill Game|Ink Spill Live in Action|
-|:---:|:---:|
-|<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
-
-* Slide Puzzle Game.
-
-|Slide Puzzle Game|Slide Puzzle Live in Action|
-|:---:|:---:|
-|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
-
-* Tic Tac Toe
-
-|Tic Tac Toe Game|
-|:---:|
-|<img src="./images/TicTacToe.jpg" width="1200" height="220" />|
-
 ## Sudoku Solver
 
 |Solve a Sudoku Puzzle by looking into paper cutting|
@@ -132,6 +107,31 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |OpenHAB Home Automation|Home Automation Live in Action|
 |:---:|:---:|
 |<img src="./images/HomeAutomation.jpg" width="600" height="220" />|[<img src="./images/HAYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=qR8Iqsu_Vlo)|
+
+## Voice Controlled Games
+* Destroy Enemy Tank by controlling your FURRY with your voice. //===--
+
+|Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
+|:---:|:---:|
+|<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
+
+* Ink Spill Game.
+
+|Ink Spill Game|Ink Spill Live in Action|
+|:---:|:---:|
+|<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
+
+* Slide Puzzle Game.
+
+|Slide Puzzle Game|Slide Puzzle Live in Action|
+|:---:|:---:|
+|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
+
+* Tic Tac Toe
+
+|Tic Tac Toe Game|
+|:---:|
+|<img src="./images/TicTacToe.jpg" width="1200" height="220" />|
 
 ## Send Twitts to Twitter
 ```sh
