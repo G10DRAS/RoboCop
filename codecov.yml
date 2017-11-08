@@ -1,6 +1,2 @@
 codecov:
   token: b7bcdcc3-478d-4ccc-871c-5896bb4c7383
-comment:
-  layout: "diff, files"
-  behavior: new
-require_changes: false
