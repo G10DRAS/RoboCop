@@ -25,5 +25,5 @@ script:
     - coverage run -m unittest discover
 after_success:
     - coverage report
-    - coveralls
     - codecov --token=b7bcdcc3-478d-4ccc-871c-5896bb4c7383
+    - coveralls
