@@ -4,7 +4,6 @@
 # Copyright 2017 g10dras.
 __author__ = 'g10dras'
 
-import os
 from asciimatics.effects import Cycle, Stars
 from asciimatics.renderers import FigletText
 from asciimatics.scene import Scene
