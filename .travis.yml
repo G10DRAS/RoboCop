@@ -16,12 +16,14 @@ install:
     - "pip install python-coveralls"
     - "pip install coverage"
     - "pip install flake8"
+    - "pip install codecov"
 before_script:
     - "flake8 RoboCop.py"
     - git config --global user.email "olxboss@gmail.com"
     - git config --global user.name "Travis-CI"
 script:
-    - "coverage run -m unittest discover"
+    - "coverage run RoboCop.py"
 after_success:
     - "coverage report"
     - "coveralls"
+    - "codecov"
