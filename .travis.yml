@@ -3,27 +3,27 @@ os:
 language: python
 sudo: true
 python:
-  - "2.7"
+  - 2.7
 cache:
   directories:
-    - "$HOME/.pip-cache/"
-    - "/home/travis/virtualenv/python2.7"
+    - $HOME/.pip-cache/
+    - /home/travis/virtualenv/python2.7
 before_install:
     - sudo apt-get update
     - sudo apt-get install libportaudio-dev libportaudio0 libportaudio2 python-pyaudio espeak festival
 install: 
-    - "pip install -r python_requirement.txt"
-    - "pip install python-coveralls"
-    - "pip install coverage"
-    - "pip install flake8"
-    - "pip install codecov"
+    - pip install -r python_requirement.txt
+    - pip install python-coveralls
+    - pip install coverage
+    - pip install flake8
+    - pip install codecov
 before_script:
-    - "flake8 RoboCop.py"
+    - flake8 RoboCop.py
     - git config --global user.email "olxboss@gmail.com"
     - git config --global user.name "Travis-CI"
 script:
-    - "coverage run RoboCop.py"
+    - coverage run -m unittest discover
 after_success:
-    - "coverage report"
-    - "coveralls"
-    - "codecov"
+    - coverage report
+    - coveralls
+    - codecov
