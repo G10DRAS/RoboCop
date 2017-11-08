@@ -1,5 +1,6 @@
 [run]
 include = software/*
+source = .
 
 [report]
 exclude_lines =
