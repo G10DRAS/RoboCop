@@ -96,7 +96,7 @@ simplejson==3.13.2
 simplemediawiki==1.1.1
 six==1.11.0
 sounddevice==0.3.9
-SpeechRecognition==3.7.1
+SpeechRecognition==3.8.1
 tablib==0.12.1
 toolz==0.8.2
 tornado==4.5.2
