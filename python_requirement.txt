@@ -1,12 +1,12 @@
 autopep8==1.3.3
-asciimatics==1.8.0
+asciimatics==1.9.0
 beautifulsoup4==4.6.0
 certifi==2017.11.5
 cffi==1.11.2
 chatbot==1.5.2b
 click==6.7
 configobj==5.0.6
-cryptography==2.1.3
+cryptography==2.1.4
 Cython==0.27.3
 dask==0.16.0
 decorator==4.1.2
@@ -19,7 +19,7 @@ feedparser==5.2.1
 Flask==0.12.2
 funcsigs==1.0.2
 future==0.16.0
-futures==3.1.1
+futures==3.2.0
 fuzzywuzzy==0.15.1
 google-api-python-client==1.6.4
 googlefinance==0.7
@@ -58,7 +58,7 @@ Pillow==4.3.0
 pip==9.0.1
 ply==3.10
 protobuf==3.5.0.post1
-psutil==5.4.1
+psutil==5.4.2
 ptyprocess==0.5.2
 pyasn1-modules==0.2.1
 pyasn1==0.4.2
@@ -68,7 +68,7 @@ PyDictionary==1.5.2
 pyee==5.0.0
 PyInstaller==3.3
 pyjokes==0.5.0
-pyOpenSSL==17.4.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pyric==0.1.6.3
 pyroute2==0.4.21
@@ -112,7 +112,7 @@ virtualenv==15.1.0
 virtualenvwrapper==4.8.2
 watchdog==0.8.3
 websocket-client==0.44.0
-Werkzeug==0.12.2
+Werkzeug==0.13
 wifi==0.3.8
 wikipedia==1.4.0
 wolframalpha==3.0
