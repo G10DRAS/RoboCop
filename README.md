@@ -53,6 +53,10 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/bluetoothR.jpg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard2.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|
 
+|arduino uno|lcd-20x4|
+|:---:|:---:|
+|<img src="./images/ArduinoUno.png" width="40" height="40" />|<img src="./images/lcd-20x4.jpeg" width="40" height="40" />|
+
 ## Voice Interfaces to RoboCop:
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|Android App (Voice)|
