@@ -26,6 +26,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.env
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -46,6 +47,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *,cover
+.coveralls.yml
 .hypothesis/
 
 # Translations
@@ -68,6 +70,7 @@ docs/_build/
 
 # PyBuilder
 target/
+.idea/
 
 # IPython Notebook
 .ipynb_checkpoints
@@ -90,3 +93,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# original files from merges
+*.orig
+
+# Exclude .exrc file for Vim
+.exrc
