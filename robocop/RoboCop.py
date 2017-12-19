@@ -34,7 +34,6 @@ parser.add_argument('--magicmirror', action='store_true',
                     help='RoboCop Magic Mirror Support')
 args = parser.parse_args()
 
-
 def WelcomeMsg(screen):
     effects = [
         Cycle(
@@ -48,7 +47,6 @@ def WelcomeMsg(screen):
         Stars(screen, 200)
     ]
     screen.play([Scene(effects, 20)], repeat=False)
-
 
 if __name__ == "__main__":
     Screen.wrapper(WelcomeMsg)
