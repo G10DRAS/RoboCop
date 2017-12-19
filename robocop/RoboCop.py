@@ -32,9 +32,8 @@ parser.add_argument('--bluealsa', action='store_true',
                     help='BlueAlsa Support')
 parser.add_argument('--magicmirror', action='store_true',
                     help='RoboCop Magic Mirror Support')
-                    
-args = parser.parse_args()
 
+args = parser.parse_args()
 
 def WelcomeMsg(screen):
     effects = [
@@ -52,4 +51,4 @@ def WelcomeMsg(screen):
 
 
 if __name__ == "__main__":
-Screen.wrapper(WelcomeMsg)
+    Screen.wrapper(WelcomeMsg)
