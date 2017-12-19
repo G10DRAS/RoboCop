@@ -17,7 +17,6 @@ from asciimatics.renderers import FigletText
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 
-
 parser = argparse.ArgumentParser(description='RoboCop Voice Control Center')
 parser.add_argument('--consoleinput', action='store_true',
                     help='Use text input instead of a real microphone')
@@ -53,5 +52,4 @@ def WelcomeMsg(screen):
 
 if __name__ == "__main__":
     Screen.wrapper(WelcomeMsg)
-
 
