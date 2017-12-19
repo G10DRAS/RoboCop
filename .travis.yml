@@ -24,7 +24,7 @@ install:
     - pip install codecov
     - pip install pep8
 before_script:
-    - flake8 RoboCop.py
+    - flake8 robocop/RoboCop.py
     - git config --global user.email "olxboss@gmail.com"
     - git config --global user.name "Travis-CI"
 script:
