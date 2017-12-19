@@ -5,7 +5,6 @@
 __author__ = 'g10dras'
 __version__ = "0.0.7"
 
-
 import os
 import sys
 import logging
@@ -34,6 +33,7 @@ parser.add_argument('--magicmirror', action='store_true',
                     help='RoboCop Magic Mirror Support')
 
 args = parser.parse_args()
+
 
 def WelcomeMsg(screen):
     effects = [
