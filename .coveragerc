@@ -5,7 +5,7 @@ include =
     software/*
     
 source =
-    software
+    robocop
 
 [report]
 exclude_lines =
