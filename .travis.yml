@@ -7,7 +7,7 @@ sudo:
 python:
   - 2.7
 env:
-  - PEP8_IGNORE="E731,W503,E402,E302,F401"
+  - PEP8_IGNORE="E731,W503,E402"
 branches:
   only:
     - master
@@ -24,7 +24,6 @@ install:
     - pip install coverage
     - pip install flake8
     - pip install codecov
-    - pip install pep8
 before_script:
     - flake8 robocop/RoboCop.py
     - git config --global user.email "olxboss@gmail.com"
