@@ -5,6 +5,7 @@
 __author__ = 'g10dras'
 __version__ = "0.0.7"
 
+
 import os
 import sys
 import logging
@@ -15,6 +16,7 @@ from asciimatics.effects import Cycle, Stars
 from asciimatics.renderers import FigletText
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
+
 
 parser = argparse.ArgumentParser(description='RoboCop Voice Control Center')
 parser.add_argument('--consoleinput', action='store_true',
@@ -31,7 +33,6 @@ parser.add_argument('--bluealsa', action='store_true',
                     help='BlueAlsa Support')
 parser.add_argument('--magicmirror', action='store_true',
                     help='RoboCop Magic Mirror Support')
-
 args = parser.parse_args()
 
 
@@ -52,3 +53,5 @@ def WelcomeMsg(screen):
 
 if __name__ == "__main__":
     Screen.wrapper(WelcomeMsg)
+
+
