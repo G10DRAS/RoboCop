@@ -49,13 +49,13 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 
 ## Hardware:
 
-|raspberrypi 2B/3|wifi adapter|stealth wifi adapter|bluetooth adapter|bluetooth receiver|
-|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/bluetoothR.jpg" width="40" height="40" />|
+|raspberrypi 2B/3|stealth wifi adapter|bluetooth adapter|bluetooth receiver|
+|:---:|:---:|:---:|:---:|
+|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/bluetoothR.jpg" width="40" height="40" />|
 
-|arduino uno|lcd-20x4|3g/4g usb modem|sound card|power bank|
-|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/ArduinoUno.png" width="40" height="40" />|<img src="./images/lcd-20x4.jpeg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard2.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|
+|arduino uno|lcd-20x4|3g/4g usb modem|sound card|power bank|wifi adapter|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/ArduinoUno.png" width="40" height="40" />|<img src="./images/lcd-20x4.jpeg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard2.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|
 
 ## Voice Interfaces to RoboCop:
 
