@@ -7,7 +7,7 @@ sudo:
 python:
   - 2.7
 env:
-    - PEP8_IGNORE="E731,W503,E402"
+  - PEP8_IGNORE="E731,W503,E402"
 branches:
   only:
     - master
@@ -36,4 +36,5 @@ after_success:
     - codecov --token=b7bcdcc3-478d-4ccc-871c-5896bb4c7383
     - coveralls
 notifications:
-  email: true
+  email: 
+    - true
