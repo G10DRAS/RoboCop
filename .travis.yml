@@ -1,9 +1,13 @@
 os:
   - linux
-language: python
-sudo: true
+language: 
+  - python
+sudo: 
+  - true
 python:
   - 2.7
+env:
+    - PEP8_IGNORE="E731,W503,E402"
 branches:
   only:
     - master
