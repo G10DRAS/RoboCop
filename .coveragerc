@@ -2,7 +2,7 @@
 branch = False
 
 include =
-    software/*
+    robocop/*
     
 source =
     robocop
