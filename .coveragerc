@@ -1,6 +1,11 @@
 [run]
-include = software/*
-source = .
+branch = False
+
+include =
+    software/*
+    
+source =
+    software
 
 [report]
 exclude_lines =
@@ -22,5 +27,6 @@ exclude_lines =
 omit =
     project/settings/*
     project/*/migrations/*
+    /*/tests/*
 
 show_missing = True
