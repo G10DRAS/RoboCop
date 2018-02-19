@@ -42,7 +42,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/arduino.png" width="40" height="40" />|<img src="./images/iss.png" width="40" height="40" />|<img src="./images/forum.png" width="40" height="40" />|<img src="./images/nasdaq.png" width="40" height="40" />|<img src="./images/shutdown.png" width="40" height="40" />|<img src="./images/qotd.png" width="40" height="40" />|<img src="./images/slide.png" width="40" height="40" />|<img src="./images/ink.png" width="40" height="40" />|<img src="./images/glyph.jpg" width="40" height="40" />|
 
-## Python Libraries:
+## Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
 |pocket sphinx|festvox|opencv|matlab|tensor flow|pulse|pyaudio|dejavu|julius|espeak|bluez|
