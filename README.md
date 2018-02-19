@@ -45,7 +45,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 ## Python Libraries:
 [![Requirements Status](https://requires.io/github/G10DRAS/RoboCop/requirements.svg?branch=master)](https://requires.io/github/G10DRAS/RoboCop/requirements/?branch=master)
 
-|pocketsphinx|festvox|opencv|matlab|tensor flow|pulse|pyaudio|dejavu|julius|espeak|bluez|
+|pocket sphinx|festvox|opencv|matlab|tensor flow|pulse|pyaudio|dejavu|julius|espeak|bluez|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/cmusphinx.png" width="40" height="38" />|<img src="./images/festvox.png" width="40" height="38" />|<img src="./images/opencv.png" width="40" height="38" />|<img src="./images/matlab.png" width="40" height="40" />|<img src="./images/tensorflow.png" width="40" height="40" />|<img src="./images/pulseaudio.png" width="40" height="40" />|<img src="./images/pyaudio.png" width="40" height="40" />|<img src="./images/dejavu.png" width="40" height="40" />|<img src="./images/julius.png" width="40" height="40" />|<img src="./images/espeak.png" width="40" height="40" />|<img src="./images/bluez.jpg" width="40" height="40" />|
 
