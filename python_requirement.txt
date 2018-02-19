@@ -21,12 +21,12 @@ funcsigs==1.0.2
 future==0.16.0
 futures==3.2.0
 fuzzywuzzy==0.16.0
-google-api-python-client==1.6.4
+google-api-python-client==1.6.5
 googlefinance==0.7
 goslate==1.5.1
 gTTS-token==1.1.1
 gTTS==1.2.2
-html2text==2017.10.4
+html2text==2018.1.9
 httplib2==0.10.3
 idna==2.6
 imutils==0.4.5
@@ -99,7 +99,7 @@ sounddevice==0.3.10
 SpeechRecognition==3.8.1
 tablib==0.12.1
 toolz==0.9.0
-tornado==4.5.2
+tornado==4.5.3
 tweepy==3.5.0
 tzlocal==1.5.1
 unicodecsv==0.14.1
