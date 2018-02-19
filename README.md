@@ -38,7 +38,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/internetradio.png" width="40" height="40" />|<img src="./images/homeassistant.png" width="40" height="40" />|<img src="./images/horoscope.png" width="40" height="40" />|<img src="./images/cleverbot.png" width="40" height="40" />|<img src="./images/santabot.png" width="40" height="40" />|<img src="./images/aiml.png" width="40" height="40" />|<img src="./images/alice.png" width="40" height="40" />|<img src="./images/uber.png" width="40" height="40" />|<img src="./images/speaker.png" width="40" height="40" />|
 
-|arduino|space station|forum|nasdaq|shutdown|quote|slide game|ink spill game|glyph control|
+|arduino|space station|forum|nasdaq|shutdown|quote|slide game|inkspill game|glyph control|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/arduino.png" width="40" height="40" />|<img src="./images/iss.png" width="40" height="40" />|<img src="./images/forum.png" width="40" height="40" />|<img src="./images/nasdaq.png" width="40" height="40" />|<img src="./images/shutdown.png" width="40" height="40" />|<img src="./images/qotd.png" width="40" height="40" />|<img src="./images/slide.png" width="40" height="40" />|<img src="./images/ink.png" width="40" height="40" />|<img src="./images/glyph.jpg" width="40" height="40" />|
 
