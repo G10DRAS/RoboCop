@@ -8,7 +8,7 @@ click==6.7
 configobj==5.0.6
 cryptography==2.1.4
 Cython==0.27.3
-dask==0.17.0
+dask==0.17.1
 decorator==4.2.1
 demjson==2.2.4
 docutils==0.14
@@ -111,7 +111,7 @@ virtualenv-clone==0.2.6
 virtualenv==15.1.0
 virtualenvwrapper==4.8.2
 watchdog==0.8.3
-websocket-client==0.46.0
+websocket-client==0.47.0
 Werkzeug==0.14.1
 wifi==0.3.8
 wikipedia==1.4.0
