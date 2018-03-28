@@ -131,11 +131,11 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|
 |<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
 
-* Slide Puzzle Game.
+* Slide Puzzle Game With Magic Hand
 
-|Slide Puzzle Game|Slide Puzzle Live in Action|
+|Slide Puzzle Game With Magic Hand|Slide Puzzle Live in Action|
 |:---:|:---:|
-|<img src="./images/SlidePuzzle.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
+|<img src="./images/MagicHand.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
 
 * Tic Tac Toe
 
