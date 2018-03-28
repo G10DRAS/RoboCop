@@ -53,21 +53,21 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 
 |raspberrypi 2B/3|stealth wifi adapter|bluetooth adapter|bluetooth receiver|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/raspberrypi.png" width="40" height="40" />|<img src="./images/wifis.jpg" width="40" height="40" />|<img src="./images/bluetooth.jpg" width="40" height="40" />|<img src="./images/bluetoothR.jpg" width="40" height="40" />|
+|<img src="./images/raspberrypi.png" width="60" height="60" />|<img src="./images/wifis.jpg" width="60" height="60" />|<img src="./images/bluetooth.jpg" width="60" height="60" />|<img src="./images/bluetoothR.jpg" width="60" height="60" />|
 
 |arduino uno|lcd-20x4|3g/4g usb modem|sound card|power bank|wifi adapter|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/ArduinoUno.png" width="40" height="40" />|<img src="./images/lcd-20x4.jpeg" width="40" height="40" />|<img src="./images/3gModem.jpg" width="40" height="40" />|<img src="./images/soundcard2.jpg" width="40" height="40" />|<img src="./images/powerbank.jpg" width="40" height="40" />|<img src="./images/wifi.jpg" width="40" height="40" />|
+|<img src="./images/ArduinoUno.png" width="60" height="60" />|<img src="./images/lcd-20x4.jpeg" width="60" height="60" />|<img src="./images/3gModem.jpg" width="60" height="60" />|<img src="./images/soundcard2.jpg" width="60" height="60" />|<img src="./images/powerbank.jpg" width="60" height="60" />|<img src="./images/wifi.jpg" width="60" height="60" />|
 
 ## Voice/Text/Sensors Interfaces to RoboCop:
 
 |High Quality Microphone|Bluetooth Headset Support|Telegram Bot Interface (Voice + Text)|Facebook Messenger Bot Interface (Text)|Android App (Voice)|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|<img src="./images/AndroidApp.jpg" width="150" height="150" />|
+|<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|<img src="./images/AndroidApp.jpg" width="150" height="120" />|
 
 |Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Webcam Interface (Voice, Image, Video, Gesture)|Security IP Camera (Remote Surveillance)|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="150" />|<img src="./images/SonyPS3Eye.jpg" width="150" height="150" />|<img src="./images/IPCamera.jpg" width="150" height="150" />|
+|<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="120" />|<img src="./images/SonyPS3Eye.jpg" width="150" height="120" />|<img src="./images/IPCamera.jpg" width="150" height="120" />|
 
 ## Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
