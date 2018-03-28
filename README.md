@@ -65,9 +65,9 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/Mic.jpg" width="150" height="120" />|<img src="./images/JabraStealth.jpg" width="150" height="120" />|<img src="./images/TelegramBot.jpg" width="150" height="120" />|<img src="./images/FacebookBot.png" width="150" height="120" />|<img src="./images/AndroidApp.jpg" width="150" height="120" />|
 
-|Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Android Mobile Browsers (Voice) [Firefox, Chrome]|Webcam Interface (Voice, Image, Video, Gesture)|Security IP Camera (Remote Surveillance)|
+|Cross Plateform Desktop Browsers (Voice) [Firefox, Chrome]|Magic Hand with Sensors|Webcam Interface (Voice, Image, Video, Gesture)|Security IP Camera (Remote Surveillance)|
 |:---:|:---:|:---:|:---:|
-|<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/AWB.jpg" width="150" height="120" />|<img src="./images/SonyPS3Eye.jpg" width="150" height="120" />|<img src="./images/IPCamera.jpg" width="150" height="120" />|
+|<img src="./images/FirefoxDesktop.jpg" width="150" height="150" />|<img src="./images/MagicHand.jpg" width="150" height="120" />|<img src="./images/SonyPS3Eye.jpg" width="150" height="120" />|<img src="./images/IPCamera.jpg" width="150" height="120" />|
 
 ## Super Market Helper Mode
 * Show it a product, it will take a snapshot of product and try to locate it in the store, for you. (Awesome)
