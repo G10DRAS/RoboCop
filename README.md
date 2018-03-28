@@ -173,8 +173,8 @@ RoboCop tell me a Story
 ## Animal Game for Kids
 ```sh
 What you want to see
-Show me a Eagle
-This is a Eagle
+Show me an Eagle
+This is an Eagle
 ```
 |Animal Picture Game|
 |:---:|
