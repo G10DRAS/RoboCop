@@ -27,7 +27,7 @@ goslate==1.5.1
 gTTS-token==1.1.1
 gTTS==1.2.2
 html2text==2018.1.9
-httplib2==0.11.2
+httplib2==0.11.3
 idna==2.6
 imutils==0.4.6
 ipaddress==1.0.19
