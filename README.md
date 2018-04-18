@@ -135,7 +135,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 
 |Slide Puzzle Game With Magic Hand|Slide Puzzle Live in Action|
 |:---:|:---:|
-|<img src="./images/MagicHand.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=6zPyTAiZiIA)|
+|<img src="./images/MagicHand.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=CYa6bXTo1Fc)|
 
 * Tic Tac Toe
 
