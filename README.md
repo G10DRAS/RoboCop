@@ -239,7 +239,7 @@ This is an Eagle
 
 ### Spy/Stealth Mode (Rocker)
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
-* Bluetooth (MAC Finder : Who is around | Is SHE Around)
+* Bluetooth (MAC Finder : Who is around - Is SHE Around)
 * RFID (Scanning)
 * NFC (NFC Automation)
 * Evil Twin Wireless Access Point
