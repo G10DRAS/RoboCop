@@ -51,9 +51,9 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 
 ## Hardware:
 
-|raspberrypi 2B/3|stealth wifi adapter|bluetooth adapter|bluetooth receiver|
-|:---:|:---:|:---:|:---:|
-|<img src="./images/raspberrypi.png" width="80" height="80" />|<img src="./images/wifis.jpg" width="80" height="80" />|<img src="./images/bluetooth.jpg" width="80" height="80" />|<img src="./images/bluetoothR.jpg" width="80" height="80" />|
+|raspberrypi 2B/3|stealth wifi adapter|bluetooth adapter|bluetooth receiver|nodemcu esp8266|
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/raspberrypi.png" width="80" height="80" />|<img src="./images/wifis.jpg" width="80" height="80" />|<img src="./images/bluetooth.jpg" width="80" height="80" />|<img src="./images/bluetoothR.jpg" width="80" height="80" />|<img src="./images/nodemcu-esp8266.jpg" width="80" height="80" />|
 
 |arduino uno|lcd-20x4|3g/4g usb modem|sound card|power bank|wifi adapter|
 |:---:|:---:|:---:|:---:|:---:|:---:|
