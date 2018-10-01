@@ -207,6 +207,7 @@ This is an Eagle
 ## Functionalities:
 
 ### Party Mode
+```
 * Load DJ mix playlist in automix and connect system to 7.1 channel music system.
 * Set Home lights  to party mode.
 * Load friends faces database and greet them on gate by recognizaing their faces.
@@ -214,15 +215,19 @@ This is an Eagle
 * Voice operated coffee, beer machine.
 * Hand Gesture Jukebox control (Play, Next, Stop....).
 * Control Jukebox with various Glyphs (Next, Prev, Stop, Play....). 
+```
 
 ### Home Security Mode
+```
 * Intrusion detection with Infrared Sensores.
 * Motion detection with Night Vision Cameras.
 * Controlled Pnumatic gun loaded with baseballs.
 * Dial 100 facility. 
 * Dial Ambulance if Intruder looks injured.
+```
 
 ### Kids Engagement Mode (Robo Nanny/Mother)
+```
 * Tell the story, by scanning pages from paper book or read e-book, in Mother or Grandma's orignal voice.
 * Play Rhymes of your choice. ("Play Wheel on the Bus")
 * Detects kid's facial expression and play Rhymes accordingly. (experimental)
@@ -236,24 +241,30 @@ This is an Eagle
 * Play Slide Puzzle Game (Voice Commands)
 * Japanese Game Janken (じゃん拳)
 * Take Picture and Print Sketch and Posters for Kids fun activities.
+```
 
 ### Spy/Stealth Mode (Rocker)
+```
 * Wi-Fi (Network Scanning, Find Today's WiFi Password, etc.......) 
 * Bluetooth (MAC Finder : Who is around - Is SHE Around)
 * RFID (Scanning)
 * NFC (NFC Automation)
 * Evil Twin Wireless Access Point
 * Kali Linux (Metasploit Payloads Automation) 
+```
 
 ### Home Automation Mode
+```
 * OpenHAB
 * Home-Assistance
 * Domoticz
 * Phillips Hue
 * Pi controlled Relay
 * Search all running services in LAN. (AppleTV, SmartTV, Hue, Routers...)
+```
 
 ### General Mode
+```
 * Facebook (Birthday, Notification....)
 * Twitter (Notification, Treands, Send Tweets)
 * Telegram Bot (Telegram Updates)
@@ -279,16 +290,21 @@ This is an Eagle
 * Dictionary Search.
 * Take your photo and draw poster out of it and then print it.
 * Voice driven Shopping Kart / Database queries. 
+```
 
 ### Classroom Mode
+```
 * Scan the student faces and record attendance.
 * Scan exam OMR sheets and create marksheet for student.
 * Run a Knowledge Engine for students.
 * Check the noise level in classroom and .... students.
 * Provide assistance to Teacher.
+```
 
 ### Chat (Conversation) Mode with custom voices
+```
 * Chat with Santa.
 * Chat with Alice in Wonderland
 * Chat with CleverBot.
 * Chat with DrumphBot.
+```
