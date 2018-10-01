@@ -197,12 +197,13 @@ This is an Eagle
 |<img src="./images/hotwordstt.jpg" width="600" height="300" />|<img src="./images/OpenHAB.jpg" width="600" height="300" />|
 
 ## Security Features:
-
+```
 * Live Face Recognition.
 * Speaker Diarization (Master's Voice).
 * In-built Hotword Detection.
 * Complete Offline Speech Recognition (Offline STT).
 * Combination of Hand Gesture as passkey.
+```
 
 ## Functionalities:
 
