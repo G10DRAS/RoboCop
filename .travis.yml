@@ -56,7 +56,6 @@ before_install:
     - sudo apt-get install python-alsaaudio -y
     - sudo apt-get install pulseaudio pulseaudio-utils -y
     - sudo apt-get install bluez-compat
-    - sudo apt-get install sox libsox-fmt-all -yaml
     - sudo apt-get install mpd mpc -y
     - sudo apt-get install python-wxgtk2.8 -y
     - sudo apt-get install python-pymad -y 
