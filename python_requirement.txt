@@ -85,7 +85,7 @@ pep8==1.7.1
 pexpect==4.6.0
 picamera==1.13
 pifacecommon==4.2.2
-pifacedigitalio==3.1.0
+pifacedigitalio==3.0.5
 pigpio==1.42
 Pillow==5.4.1
 ping==0.2
