@@ -96,7 +96,6 @@ psutil==5.5.0
 ptyprocess==0.6.0
 pyasn1-modules==0.2.4
 pyasn1==0.4.5
-PyAudio==0.2.11
 pycparser==2.19
 PyDbLite==3.0.4
 PyDejavu==0.1.3
