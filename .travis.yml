@@ -45,7 +45,6 @@ before_install:
     - sudo apt-get install libopenobex1 obex-data-server python-gconf -y
     - sudo apt-get install blueman -y
     - sudo apt-get install libbluetooth3 libusb-dev -y
-    - sudo apt-get install firmware-linux-nonfree
     - sudo apt-get install pulseaudio-module-bluetooth pulseaudio-module-x11 -y
     - sudo apt-get install pavucontrol -y
     - sudo apt-get install paman -y
