@@ -36,7 +36,6 @@ funcsigs==1.0.2
 future==0.17.1
 futures==3.2.0
 fuzzywuzzy==0.17.0
-g2p_seq2seq==5prealpha
 google-api-python-client==1.7.7
 google-auth-oauthlib==0.2.0
 google-auth==1.6.2
