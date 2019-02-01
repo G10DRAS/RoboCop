@@ -1,5 +1,5 @@
 3to2==1.1.1
-aiml==0.9.0
+aiml==0.9.2
 apiai==1.2.1
 APScheduler==3.5.2
 argh==0.26.2
