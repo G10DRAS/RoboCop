@@ -18,7 +18,6 @@ cache:
     - /home/travis/virtualenv/python2.7
 before_install:
     - sudo apt-get install zbar-tools -y
-    - sudo apt-get install libtiff4 libjpeg-dev libpng-dev -y
     - sudo apt-get install --fix-missing libportaudio0 libportaudio2 libportaudiocpp0 -y
     - sudo apt-get install --fix-missing portaudio19-dev -y
     - sudo apt-get install --fix-missing libportaudio-dev libasound2 libasound2-dev libsndfile1-dev -y
