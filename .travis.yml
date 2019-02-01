@@ -17,6 +17,9 @@ cache:
     - $HOME/.pip-cache/
     - /home/travis/virtualenv/python2.7
 before_install:
+    - sudo apt-get update
+    # install portaudio since this is a requirement for pyaudio
+    - sudo apt-get install portaudio19-dev
     - sudo apt-get install zbar-tools -y
     - sudo apt-get install --fix-missing libportaudio0 libportaudio2 libportaudiocpp0 -y
     - sudo apt-get install --fix-missing portaudio19-dev -y
