@@ -20,6 +20,7 @@ before_install:
     - sudo apt-get update
     # install portaudio since this is a requirement for pyaudio
     - sudo apt-get install zbar-tools -y
+    - sudo apt-get install portaudio19-dev
     - sudo apt-get install --fix-missing libportaudio0 libportaudio2 libportaudiocpp0 libjack-dev -y
     - sudo apt-get install --fix-missing libasound2 libasound2-dev libsndfile1-dev -y
     - sudo apt-get install alsa-base alsa-utils alsa-oss alsamixergui -y
