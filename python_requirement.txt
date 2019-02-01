@@ -123,7 +123,6 @@ pytz==2018.9
 pyvona==1.2.1
 PyWavelets==1.0.1
 PyYAML==3.13
-quantities==0.11.1
 requests-futures==0.9.9
 requests-oauthlib==1.2.0
 requests==2.21.0
