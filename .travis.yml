@@ -55,7 +55,7 @@ before_install:
     - sudo apt-get install alsaplayer alsaplayer-alsa -y
     - sudo apt-get install alsa-tools alsa-tools-gui alsamixergui libalsaplayer0 -y
     - sudo apt-get install libasound-dev -y
-    - sudo apt-get install python-dev python-numpy cython python-smbus python-pyaudio -y
+    - sudo apt-get install python-dev python-numpy cython python-smbus -y
     - sudo apt-get install python-alsaaudio -y
     - sudo apt-get install pulseaudio pulseaudio-utils -y
     - sudo apt-get install bluez-compat
