@@ -8,6 +8,7 @@ python:
   - 2.7
 env:
   - PEP8_IGNORE="E731,W503,E402"
+  - OS=arm
 branches:
   only:
     - master
