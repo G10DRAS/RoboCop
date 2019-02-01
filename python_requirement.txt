@@ -94,6 +94,7 @@ ply==3.11
 protobuf==3.6.1
 psutil==5.5.0
 ptyprocess==0.6.0
+pyalsaaudio==0.8.4
 pyasn1-modules==0.2.4
 pyasn1==0.4.5
 PyBluez==0.22
