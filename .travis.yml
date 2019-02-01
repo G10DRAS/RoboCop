@@ -18,7 +18,11 @@ cache:
     - /home/travis/virtualenv/python2.7
 before_install:
     - sudo apt-get update
-    - sudo apt-get install libportaudio-dev libportaudio0 libportaudio2 python-pyaudio espeak festival
+    - sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 python-pyaudio libportaudio-dev libportaudio0
+    - sudo apt-get install libasound2 libasound2-dev libsndfile1-dev
+    - sudo apt-get install alsa-base alsa-utils alsa-oss alsamixergui
+    - sudo apt-get install festival espeak flite
+
 install: 
     - pip install -U -r python_requirement.txt
     - pip install -U python-coveralls
