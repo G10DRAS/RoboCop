@@ -17,11 +17,63 @@ cache:
     - $HOME/.pip-cache/
     - /home/travis/virtualenv/python2.7
 before_install:
-    - sudo apt-get update
-    - sudo apt-get install libasound-dev libportaudio2 libportaudiocpp0 python-pyaudio libportaudio-dev libportaudio0
-    - sudo apt-get install libsndfile1-dev
-    - sudo apt-get install alsa-base alsa-utils alsa-oss alsamixergui
-    - sudo apt-get install festival espeak flite
+    - sudo apt-get install zbar-tools -y
+    - sudo apt-get install libtiff4 libjpeg-dev libpng-dev -y
+    - sudo apt-get install --fix-missing libportaudio0 libportaudio2 libportaudiocpp0 -y
+    - sudo apt-get install --fix-missing portaudio19-dev -y
+    - sudo apt-get install --fix-missing libportaudio-dev libasound2 libasound2-dev libsndfile1-dev -y
+    - sudo apt-get install alsa-base alsa-utils alsa-oss alsamixergui -y
+    - sudo apt-get install festival espeak flite -y
+    - sudo apt-get install python-pip python-dev python-yaml  -y
+    - sudo apt-get install fakeroot debhelper help2man hardening-wrapper -y
+    - sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev
+    - sudo apt-get install --fix-missing flex libesd0-dev libatlas-dev liblapack-dev -y
+    - sudo apt-get install libopenblas-dev 
+    - sudo apt-get install --fix-missing libsdl-dev libsdl-image1.2-dev libsdl-mixer1.2-dev -y
+    - sudo apt-get install --fix-missing libsdl-ttf2.0-dev libsmpeg-dev libportmidi-dev libavformat-dev libswscale-dev -y
+    - sudo apt-get install bison -y
+    - sudo apt-get install swig -y
+    - sudo apt-get install mplayer -y
+    - sudo apt-get install libasound2-plugin-equal -y
+    - sudo apt-get install mpg321 -y
+    - sudo apt-get install lame -y
+    - sudo apt-get install libasound2-plugins -y
+    - sudo apt-get install libffi-dev
+    - sudo apt-get install libsndfile1
+    - sudo apt-get install bluez python-gobject python-gobject-2
+    - sudo apt-get install --no-install-recommends bluetooth python-gobject -y
+    - sudo apt-get install --no-install-recommends bluez-utils bluez-alsa -y
+    - sudo apt-get install libopenobex1 obex-data-server python-gconf -y
+    - sudo apt-get install blueman -y
+    - sudo apt-get install libbluetooth3 libusb-dev -y
+    - sudo apt-get install firmware-linux-nonfree
+    - sudo apt-get install pulseaudio-module-bluetooth pulseaudio-module-x11 -y
+    - sudo apt-get install pavucontrol -y
+    - sudo apt-get install paman -y
+    - sudo apt-get install lame -y 
+    - sudo apt-get install alsaplayer alsaplayer-alsa -y
+    - sudo apt-get install alsa-tools alsa-tools-gui alsamixergui libalsaplayer0 -y
+    - sudo apt-get install libasound-dev -y
+    - sudo apt-get install python-dev python-numpy cython python-smbus python-pyaudio -y
+    - sudo apt-get install python-alsaaudio -y
+    - sudo apt-get install pulseaudio pulseaudio-utils -y
+    - sudo apt-get install bluez-compat
+    - sudo apt-get install sox libsox-fmt-all -yaml
+    - sudo apt-get install mpd mpc -y
+    - sudo apt-get install python-wxgtk2.8 -y
+    - sudo apt-get install python-pymad -y 
+    - sudo apt-get install libxml2 libxml2-dev libxslt-dev -y
+    - sudo apt-get install libbluetooth-dev -y
+    - sudo apt-get install libssl-dev libffi-dev -y
+    - sudo apt-get install libav-tools -y 
+    - sudo apt-get install python-pygame python-scipy -y
+    - sudo apt-get install libboost-python-dev [NO]
+    - sudo apt-get install python-gtk2
+    - sudo apt-get install xdotool 
+    - sudo apt-get install mosquitto mosquitto-clients -y
+    - sudo apt-get install apache2
+    - sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev 
+    - sudo apt-get install libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev
 install: 
     - pip install -U -r python_requirement.txt
     - pip install -U python-coveralls
