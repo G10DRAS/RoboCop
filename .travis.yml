@@ -22,7 +22,6 @@ before_install:
     - sudo apt-get install libasound2 libasound2-dev libsndfile1-dev
     - sudo apt-get install alsa-base alsa-utils alsa-oss alsamixergui
     - sudo apt-get install festival espeak flite
-
 install: 
     - pip install -U -r python_requirement.txt
     - pip install -U python-coveralls
