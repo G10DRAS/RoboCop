@@ -64,7 +64,6 @@ before_install:
     - sudo apt-get install libssl-dev libffi-dev -y
     - sudo apt-get install libav-tools -y 
     - sudo apt-get install python-pygame python-scipy -y
-    - sudo apt-get install libboost-python-dev [NO]
     - sudo apt-get install python-gtk2
     - sudo apt-get install xdotool 
     - sudo apt-get install mosquitto mosquitto-clients -y
