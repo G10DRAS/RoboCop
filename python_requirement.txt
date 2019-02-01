@@ -116,7 +116,6 @@ pyroute2==0.5.3
 pyserial==3.4
 pysolr==3.8.1
 PySoundFile==0.9.0.post1
-python-apt==0.9.3.12
 python-dateutil==2.7.5
 python-gflags==3.1.2
 python-Levenshtein==0.12.0
