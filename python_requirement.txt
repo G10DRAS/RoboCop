@@ -61,7 +61,6 @@ MarkupSafe==1.1.0
 matplotlib==2.1.2
 mcpi==1.1.0
 mock==2.0.0
-mod_wsgi==4.6.5
 monotonic==1.5
 more-itertools==5.0.0
 ndg-httpsclient==0.5.1
@@ -97,6 +96,7 @@ psutil==5.5.0
 ptyprocess==0.6.0
 pyasn1-modules==0.2.4
 pyasn1==0.4.5
+PyBluez==0.22
 pycparser==2.19
 PyDbLite==3.0.4
 PyDejavu==0.1.3
