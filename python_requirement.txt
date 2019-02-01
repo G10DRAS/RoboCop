@@ -106,7 +106,7 @@ PyDejavu==0.1.3
 PyDictionary==1.5.2
 pydub==0.23.0
 pyee==5.0.0
-pygobject==3.14.0
+pygobject==3.30.2
 PyInstaller==3.4
 pyjokes==0.5.0
 pymad==0.7
