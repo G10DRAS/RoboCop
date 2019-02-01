@@ -109,7 +109,7 @@ pyee==5.0.0
 pygobject==3.30.2
 PyInstaller==3.4
 pyjokes==0.5.0
-pymad==0.7
+pymad==0.10
 pyOpenSSL==18.0.0
 pyowm==2.9.0
 pyparsing==2.3.0
