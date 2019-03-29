@@ -30,7 +30,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/imdb.png" width="40" height="40" />|<img src="./images/jokes.png" width="40" height="40" />|<img src="./images/stockexchange.png" width="40" height="40" />|<img src="./images/technews.png" width="40" height="40" />|<img src="./images/telegram.png" width="40" height="40" />|<img src="./images/tictactoe.png" width="40" height="40" />|<img src="./images/wolfram.png" width="40" height="40" />|<img src="./images/tankbattle.png" width="40" height="40" />|<img src="./images/selfie.png" width="40" height="40" />|<img src="./images/nfc.png" width="40" height="40" />|
 
-|rhymes|gesture|stocknews|productinfo|facialexpression|kali|translate|jukebox|bluetooth|
+|rhymes|gesture|stocknews|prodinfo|facialexpression|kali|translate|jukebox|bluetooth|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/rhymes.png" width="40" height="40" />|<img src="./images/gesture.jpg" width="40" height="40" />|<img src="./images/stocknews.png" width="40" height="40" />|<img src="./images/productinfo.png" width="40" height="40" />|<img src="./images/faceexpression.jpg" width="40" height="40" />|<img src="./images/kali.png" width="40" height="40" />|<img src="./images/translate.png" width="40" height="40" />|<img src="./images/jukebox.png" width="40" height="40" />|<img src="./images/bluetooth.png" width="40" height="40" />|
 
