@@ -102,7 +102,7 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 * Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...).
 * Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
 
-|Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action|
+|Speech Recognition Jukebox (SRJuke)|SRJuke Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/BlueSpeaker.jpg" width="600" height="220" />|[<img src="./images/Jukebox.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=-CZvC4g5ZUk)|
 
@@ -114,26 +114,26 @@ Custom Voices - Donate your voice to RoboCop and RoboCop will talk in your voice
 
 ## Home Automation
 
-|OpenHAB Home Automation|Home Automation Live in Action|
+|OpenHAB Home Automation|Home Automation Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/HomeAutomation.jpg" width="600" height="220" />|[<img src="./images/HAYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=qR8Iqsu_Vlo)|
 
 ## Voice Controlled Games
 * Destroy Enemy Tank by controlling your FURRY with your voice. //===--
 
-|Tanks Battle Game (FURRY)|Tanks Battle Live in Action|
+|Tanks Battle Game (FURRY)|Tanks Battle Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/TankGame.jpg" width="600" height="220" />|[<img src="./images/TBYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=XD4wh6sUxJA)|
 
 * Ink Spill Game.
 
-|Ink Spill Game|Ink Spill Live in Action|
+|Ink Spill Game|Ink Spill Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/InkSpill.jpg" width="600" height="220" />|[<img src="./images/ISYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=hVCNnoYEi2c)|
 
 * Slide Puzzle Game With Magic Hand
 
-|Slide Puzzle Game With Magic Hand|Slide Puzzle Live in Action|
+|Slide Puzzle Game With Magic Hand|Slide Puzzle Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/MagicHand.jpg" width="600" height="220" />|[<img src="./images/SPYouTube.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=CYa6bXTo1Fc)|
 
@@ -158,7 +158,7 @@ tell me the spelling of elephant
 E L E P H A N T
 E L E P H A N T is elephant.. Correct Answer. Keep it up Baby..
 ```
-|Spelling Test|Spelling Test Live in Action|
+|Spelling Test|Spelling Test Live in Action (Youtube)|
 |:---:|:---:|
 |<img src="./images/SpellBee.jpg" width="600" height="220" />|[<img src="./images/SpellingTest.jpg" width="600" height="220" />](https://www.youtube.com/watch?v=7qgtPXcuRjA)|
 
