@@ -55,7 +55,7 @@ inflect==3.0.2
 ipaddress==1.0.23
 itsdangerous==1.1.0
 jaraco.itertools==4.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.2
 MarkupSafe==1.1.1
 matplotlib==2.1.2
