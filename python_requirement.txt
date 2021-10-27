@@ -22,7 +22,7 @@ codecov==2.1.9
 coverage==5.3
 cryptography==3.1
 Cython==0.29.21
-dask==1.2.2
+dask==2021.10.0
 decorator==4.4.2
 demjson==2.2.4
 docutils==0.16
