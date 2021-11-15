@@ -89,7 +89,7 @@ pigpio==1.46
 Pillow==6.2.2
 ping==0.2
 pip-tools==5.3.1
-pip==19.0.1
+pip==21.1
 ply==3.11
 protobuf==3.13.0
 psutil==5.7.2
