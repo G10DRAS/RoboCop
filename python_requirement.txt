@@ -56,7 +56,7 @@ ipaddress==1.0.23
 itsdangerous==1.1.0
 jaraco.itertools==4.4.1
 Jinja2==2.11.2
-lxml==4.5.2
+lxml==4.6.5
 MarkupSafe==1.1.1
 matplotlib==2.1.2
 mcpi==1.2.0
