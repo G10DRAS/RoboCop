@@ -10,7 +10,7 @@ backports-abc==0.5
 backports.ssl-match-hostname==3.7.0.1
 beautifulsoup4==4.9.1
 cachetools==3.1.1
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.2
 CherryPy>=4.0.0
 cleverwrap==0.2.3.6
