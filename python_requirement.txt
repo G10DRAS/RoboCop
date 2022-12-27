@@ -137,7 +137,7 @@ scikit-image==0.14.5
 scikit-learn==0.20.2
 scipy==1.2.3
 semantic==1.0.3
-setuptools==44.1.1
+setuptools==65.5.1
 simplejson==3.17.2
 simplemediawiki==1.1.1
 singledispatch==3.4.0.3
